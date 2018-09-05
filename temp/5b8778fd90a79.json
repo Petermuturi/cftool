@@ -1,0 +1,47 @@
+{
+    "name": "race-ethnicity-designation",
+    "fields": {
+        "signer1": [
+            {
+                "gh_applicant_name:text:0:-": {
+                    "name": "gh_applicant_name",
+                    "type": "text",
+                    "xpt": 105.75,
+                    "ypt": 185.25,
+                    "x": 141,
+                    "y": 247,
+                    "display": "gh_applicant_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_race:text:0:-": {
+                    "name": "gh_race",
+                    "type": "text",
+                    "x": 380,
+                    "y": 207,
+                    "display": "gh_race",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 285,
+                    "ypt": 155.25
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b877771220c9.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n\tpadding: 10px 0;\n}\nbody .gh-cf-base * {\n\tfont-family: sans-serif;\n\tbox-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n\tfont-size: 90%;\n}\nbody .gh-cf-base .f70 {\n\tfont-size: 70%;\n}\nbody .gh-cf-base .b1 {\n\tborder: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n\ttext-align: center;\n}\nbody .gh-cf-base .slbenrow {\n\tpadding: 8px 10px;\n\tbackground: #eee;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 0;\n\tposition: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n\tborder-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n\toverflow: hidden;\n\tborder-bottom: 1px solid #ddd;\n    margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n\tborder: 0;\n\tmargin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n\tfloat: left;\n    padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n    display: block;\n    font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n    display: block;\n    font-size: 12px;\n    width: calc(100% - 10px);\n    margin-top: 3px;\n    resize: none;\n}\nbody .gh-cf-base hr {\n\tborder-color: #eee !important;\n}\nbody .gh-cf-base .error {\n    color: #bd0404;\n    font-size: 12px;\n    font-weight: normal !important;\n    width: 100%;\n\ttext-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n\tdisplay: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n\tmargin-left: 2px;\n}\nbody .gh-cf-base .btn {\n    color: #fff;\n    padding: 4px 10px;\n    margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n\tbackground: #39609b;\n\tborder: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n\tbackground: #a72525;\n\tborder: 1px solid #a72525;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n\t<div class=\"centered-section\">\n\t\t<h3>RACE ETHNICITY DESIGNATION FORM<\/h3>\n\t\t<hr style=\"margin-top: 0; border-bottom: 0;\">\n\t<\/div>\n\t<div class=\"b1 f90 slbenrow\">\n\t\t<div class=\"cfbpage\" data-page=\"0\">\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <p>The BVI is subject to certain governmental recordkeeping and reporting requirements for the administration of civil rights laws and regulations. In order to comply with these laws, the BVI invites employees to voluntarily self-identify their race or ethnicity. Submission of this information is voluntary and refusal to provide it will not subject you to any adverse treatment. The information obtained will be kept confidential and may only be used in accordance with the provisions of applicable laws, executive orders, and regulations, including those that require the information to be summarized and reported to the federal government for civil rights enforcement. When reported, data will not identify any specific individual\u2019s name.<\/p>\n          <p>Race and ethnic designations as used by the Equal Employment Opportunity Commission are defined as follows:<\/p>\n          <p>\n            <u>Hispanic or Latino<\/u> - person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race. <br>\n            <u>White<\/u> - person having origins in any of the original peoples of Europe, the Middle East, or North Africa. <br>\n            <u>Black or African American<\/u> - A person having origins in any of the black racial groups of Africa. <br>\n            <u>Native Hawaiian or Other Pacific Islander<\/u> - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands. <br>\n            <u>Asian<\/u> - person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam. <br>\n            <u>American Indian or Alaska Native<\/u> - person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment. <br>\n            <u>Two or More Races<\/u> - all persons who identify with more than one of the above 5 races. <br>\n          <\/p>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Name<\/label>\n          <input type=\"text\" name='gh_applicant_name' value='%gh_employee_name%'>\n        <\/div>\n      <\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<label>Please enter race\/ethnicity from the above list.<\/label>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 50%\">\n          <select name=\"gh_race\">\n            <option value=\"Hispanic or Latino\">Hispanic or Latino<\/option>\n            <option value=\"White\">White<\/option>\n            <option value=\"Black or African American\">Black or African American<\/option>\n            <option value=\"Native Hawaiian or Other Pacific Islander\">Native Hawaiian or Other Pacific Islander<\/option>\n            <option value=\"Asian\">Asian<\/option>\n            <option value=\"American Indian or Alaska Native\">American Indian or Alaska Native<\/option>\n            <option value=\"Two or More Races\">Two or More Races<\/option>\n          <\/select>\n        <\/div>\n\t\t\t<\/div>\n\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n\n",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": false,
+    "fontSize": 9
+}

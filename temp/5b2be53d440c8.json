@@ -1,0 +1,319 @@
+{
+    "name": "GFE",
+    "fields": {
+        "signer1": [
+            {
+                "gh_effective_day:text:0:-": {
+                    "name": "gh_effective_day",
+                    "type": "text",
+                    "xpt": 239.25,
+                    "ypt": 633.75,
+                    "x": 319,
+                    "y": 845,
+                    "display": "gh_effective_day",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_effective_month:text:0:-": {
+                    "name": "gh_effective_month",
+                    "type": "text",
+                    "xpt": 368.25,
+                    "ypt": 633.75,
+                    "x": 491,
+                    "y": 845,
+                    "display": "gh_effective_month",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_effective_year:text:0:-": {
+                    "name": "gh_effective_year",
+                    "type": "text",
+                    "xpt": 477,
+                    "ypt": 633.75,
+                    "x": 636,
+                    "y": 845,
+                    "display": "gh_effective_year",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "xpt": 258,
+                    "ypt": 576.75,
+                    "x": 344,
+                    "y": 769,
+                    "display": "gh_employee_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_addr:text:0:-": {
+                    "name": "gh_addr",
+                    "type": "text",
+                    "xpt": 51.75,
+                    "ypt": 562.5,
+                    "x": 69,
+                    "y": 750,
+                    "display": "gh_addr",
+                    "selected": false,
+                    "instance": 0
+                }
+            },
+            null,
+            {
+                "gh_compensation_amount:text:0:-": {
+                    "name": "gh_compensation_amount",
+                    "type": "text",
+                    "xpt": 135.75,
+                    "ypt": 495.75,
+                    "x": 181,
+                    "y": 661,
+                    "display": "gh_compensation_amount",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_compensation_frequency:radio:0:weekly": {
+                    "name": "gh_compensation_frequency",
+                    "type": "radio",
+                    "xpt": 276.75,
+                    "ypt": 501.75,
+                    "x": 369,
+                    "y": 669,
+                    "display": "x",
+                    "value": "weekly",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_compensation_frequency:radio:0:monthly": {
+                    "name": "gh_compensation_frequency",
+                    "type": "radio",
+                    "xpt": 324,
+                    "ypt": 501.75,
+                    "x": 432,
+                    "y": 669,
+                    "display": "x",
+                    "value": "monthly",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_compensation_frequency:radio:0:annually": {
+                    "name": "gh_compensation_frequency",
+                    "type": "radio",
+                    "xpt": 373.5,
+                    "ypt": 501.75,
+                    "x": 498,
+                    "y": 669,
+                    "display": "x",
+                    "value": "annually",
+                    "selected": false,
+                    "instance": 0
+                }
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 67.328125,
+                    "y": 276.328125,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 50.49609375,
+                    "ypt": 207.24609375
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 448.328125,
+                    "y": 243.328125,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 336.24609375,
+                    "ypt": 182.49609375
+                },
+                "employer_signature_name:text:0:-": {
+                    "name": "employer_signature_name",
+                    "type": "text",
+                    "x": 154.328125,
+                    "y": 243.328125,
+                    "display": "employer_signature_name",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 115.74609375,
+                    "ypt": 182.49609375
+                }
+            }
+        ],
+        "signer2": [
+            {
+                "gh_effective_day:text:0:-": {
+                    "name": "gh_effective_day",
+                    "type": "text",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "gh_effective_day",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_effective_month:text:0:-": {
+                    "name": "gh_effective_month",
+                    "type": "text",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "gh_effective_month",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_effective_year:text:0:-": {
+                    "name": "gh_effective_year",
+                    "type": "text",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "gh_effective_year",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "gh_employee_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_addr:text:0:-": {
+                    "name": "gh_addr",
+                    "type": "text",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "gh_addr",
+                    "selected": false,
+                    "instance": 0
+                }
+            },
+            null,
+            {
+                "gh_compensation_amount:text:0:-": {
+                    "name": "gh_compensation_amount",
+                    "type": "text",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "gh_compensation_amount",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_compensation_frequency:radio:0:weekly": {
+                    "name": "gh_compensation_frequency",
+                    "type": "radio",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "x",
+                    "value": "weekly",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_compensation_frequency:radio:0:monthly": {
+                    "name": "gh_compensation_frequency",
+                    "type": "radio",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "x",
+                    "value": "monthly",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_compensation_frequency:radio:0:annually": {
+                    "name": "gh_compensation_frequency",
+                    "type": "radio",
+                    "xpt": 9999,
+                    "ypt": 9999,
+                    "x": 13332,
+                    "y": 13332,
+                    "display": "x",
+                    "value": "annually",
+                    "selected": false,
+                    "instance": 0
+                }
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 153.328125,
+                    "y": 138.328125,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 114.99609375,
+                    "ypt": 103.74609375
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 446.328125,
+                    "y": 103.328125,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 334.74609375,
+                    "ypt": 77.49609375
+                },
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "x": 153.328125,
+                    "y": 103.328125,
+                    "display": "gh_employee_name",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 114.99609375,
+                    "ypt": 77.49609375
+                }
+            }
+        ]
+    },
+    "pdfURL": "uploads\/5b2be47b75c40.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": true,
+    "signer1": "employer",
+    "signer2": "employee",
+    "html1": "<style type=\"text\/css\">\n\t.go-forth-new-employment-agreement-custom-form{\n\t\twidth: 100%;\n\t\tmax-width: 1200px;\n\t\tmargin: 0 auto;\n\t\tpadding: 10px;\n\t\tfont-family: Helvetica, Arial, Sans-Serif;\n\t\tbox-sizing: border-box;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .go-forth-new-employment-row{\n\t\twidth: 100%;\n\t\tbox-sizing: border-box;\n\t\toverflow: hidden;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .block-layout{\n\t\tbox-sizing: border-box;\n\t\tfloat: left;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-left{\n\t\twidth: 40%;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-right{\n\t\twidth: 60%;\n\t\ttext-align: right;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-right h3{\n\t\tpadding-top: 15px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content{\n\t\tpadding-bottom: 50px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content p{\n\t\tline-height: 25px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .form-input{\n\t\tborder: none;\n\t\tborder-bottom: solid 1px #000;\n\t\toutline: none;\n\t\tfont-size: 16px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content .form-input{\n\t\tmax-width: 60%;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content .para-content{\n\t\ttext-indent: 5%;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .signature-content{\n\t\tborder-bottom: solid 1px #000;\n\t\twidth: 40%;\n\t\theight: 35px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form label{\n\t\tdisplay: inline-block;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .submit-button-row{\n\t\ttext-align: center;\n\t\tborder-top: solid 1px #ccc;\n\t\tpadding-top: 20px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .submit-button-row .form-submit-button{\n\t\tpadding: 8px 15px;\n\t\tfont-size: 16px;\n\t\tborder-radius: 5px;\n\t\tborder: solid 1px rgba(40,167,69,.5);\n\t\tbackground-color: #28a745;\n\t\tcolor: #fff;\n\t}\n\t@media(max-width: 500px){\n\t\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-left{\n\t\t\twidth: 100%;\n\t\t}\n\t\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-right{\n\t\t\twidth: 100%;\n\t\t\ttext-align: left;\n\t\t}\n\t\t.go-forth-new-employment-agreement-custom-form .block-layout-xs{\n\t\t\twidth: 100% !important;\n\t\t\tmargin-bottom: 15px;\n\t\t}\n\t}\n\t.go-forth-new-employment-agreement-custom-form .sign_item {\n\t\theight: 100%;\n\t\tdisplay: flex;\n\t\talign-items: flex-end;\n\t\tfont-size: 13px;\n\t\tfont-weight: bold;\n\t}\n<\/style>\n<div class=\"go-forth-new-employment-agreement-custom-form\">\n\n\t<input type='hidden' name='gh_employee_name' value='%gh_employee_name%' class='form-control'\/>\n\t<input type='hidden' name='gh_employer_name' value='%gh_employer_name%' class='form-control'\/>\n\n\t<div class=\"cfbpage\" data-page=\"0\">\n\t\t<div class=\"go-forth-new-employment-row page-header\">\n\t\t\t<div class=\"page-header-left block-layout\">\n\t\t\t\t<h4>NORTH CAROLINA<\/h4>\n\t\t\t\t<h4>GUILFORD COUNT<\/h4>\n\t\t\t<\/div>\n\t\t\t<div class=\"page-header-right block-layout\">\n\t\t\t\t<h4>NEW EMPLOYMENT AGREEMENT<\/h4>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\n\t\t<div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<p>Effective date :<\/p>\n\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t<div class=\"effective-date-form go-forth-new-employment-row\">\n\t\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 20%;\">\n\t\t\t\t\t\t<label>Day: <\/label>\n\t\t\t\t\t\t<select class=\"form-input\" name=\"gh_effective_day\">\n\t\t\t\t\t\t\t<option value=\"01\">01<\/option>\n\t\t\t\t\t\t\t<option value=\"02\">02<\/option>\n\t\t\t\t\t\t\t<option value=\"03\">03<\/option>\n\t\t\t\t\t\t\t<option value=\"04\">04<\/option>\n\t\t\t\t\t\t\t<option value=\"05\">05<\/option>\n\t\t\t\t\t\t\t<option value=\"06\">06<\/option>\n\t\t\t\t\t\t\t<option value=\"07\">07<\/option>\n\t\t\t\t\t\t\t<option value=\"08\">08<\/option>\n\t\t\t\t\t\t\t<option value=\"09\">09<\/option>\n\t\t\t\t\t\t\t<option value=\"10\">10<\/option>\n\t\t\t\t\t\t\t<option value=\"11\">11<\/option>\n\t\t\t\t\t\t\t<option value=\"12\">12<\/option>\n\t\t\t\t\t\t\t<option value=\"13\">13<\/option>\n\t\t\t\t\t\t\t<option value=\"14\">14<\/option>\n\t\t\t\t\t\t\t<option value=\"15\">15<\/option>\n\t\t\t\t\t\t\t<option value=\"16\">16<\/option>\n\t\t\t\t\t\t\t<option value=\"17\">17<\/option>\n\t\t\t\t\t\t\t<option value=\"18\">18<\/option>\n\t\t\t\t\t\t\t<option value=\"19\">19<\/option>\n\t\t\t\t\t\t\t<option value=\"20\">20<\/option>\n\t\t\t\t\t\t\t<option value=\"21\">21<\/option>\n\t\t\t\t\t\t\t<option value=\"22\">22<\/option>\n\t\t\t\t\t\t\t<option value=\"23\">23<\/option>\n\t\t\t\t\t\t\t<option value=\"24\">24<\/option>\n\t\t\t\t\t\t\t<option value=\"25\">25<\/option>\n\t\t\t\t\t\t\t<option value=\"26\">26<\/option>\n\t\t\t\t\t\t\t<option value=\"27\">27<\/option>\n\t\t\t\t\t\t\t<option value=\"28\">28<\/option>\n\t\t\t\t\t\t\t<option value=\"29\">29<\/option>\n\t\t\t\t\t\t\t<option value=\"30\">30<\/option>\n\t\t\t\t\t\t\t<option value=\"31\">31<\/option>\n\t\t\t\t\t\t<\/select>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 20%;\">\n\t\t\t\t\t\t<label>Month: <\/label>\n\t\t\t\t\t\t<select class=\"form-input\" name=\"gh_effective_month\">\n\t\t\t\t\t\t\t<option value=\"January\">January<\/option>\n\t\t\t\t\t\t\t<option value=\"February\">February<\/option>\n\t\t\t\t\t\t\t<option value=\"March\">March<\/option>\n\t\t\t\t\t\t\t<option value=\"April\">April<\/option>\n\t\t\t\t\t\t\t<option value=\"May\">May<\/option>\n\t\t\t\t\t\t\t<option value=\"June\">June<\/option>\n\t\t\t\t\t\t\t<option value=\"July\">July<\/option>\n\t\t\t\t\t\t\t<option value=\"August\">August<\/option>\n\t\t\t\t\t\t\t<option value=\"September\">September<\/option>\n\t\t\t\t\t\t\t<option value=\"October\">October<\/option>\n\t\t\t\t\t\t\t<option value=\"November\">November<\/option>\n\t\t\t\t\t\t\t<option value=\"December\">December<\/option>\n\t\t\t\t\t\t<\/select>\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 20%;\">\n\t\t\t\t\t\t<label>Year: <\/label>\n\t\t\t\t\t\t<select class=\"form-input\" name=\"gh_effective_year\">\n\t\t\t\t\t\t\t<option value=\"2018\">2018<\/option>\n\t\t\t\t\t\t\t<option value=\"2019\">2019<\/option>\n\t\t\t\t\t\t\t<option value=\"2020\">2020<\/option>\n\t\t\t\t\t\t<\/select>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t\t<label style=\"\">\u200bEmployee Name :<\/label>\n\t\t\t\t\t<input class=\"form-input\" type=\"text\" name=\"gh_employee_name\" value=\"%gh_employee_name%\" style=\"width: 300px\">\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"go-forth-new-employment-row\" style=\"margin-top: 30px;\">\n\t\t\t\t\t<label style=\"\">\u200bAddress :<\/label>\n\t\t\t\t\t<input class=\"form-input\" type=\"text\" name=\"gh_addr\" value=\"%gh_addr%\" style=\"width: 360px\">\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"cfbpage\" data-page=\"2\">\n\t\t<div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t\t<label style=\"\">\u200bCompensation ($):<\/label>\n\t\t\t\t\t<input class=\"form-input\" type=\"number\" min=\"1\" name=\"gh_compensation_amount\" style=\"width: 180px\">\n\t\t\t\t\t<span>&nbsp;&nbsp;\n\t\t\t\t\t\t<label><input type=\"radio\" name=\"gh_compensation_frequency\" value=\"weekly\"> Weekly<\/label>\n\t\t\t\t\t\t<label>&nbsp;<input type=\"radio\" name=\"gh_compensation_frequency\" value=\"monthly\"> Monthly<\/label>\n\t\t\t\t\t\t<label>&nbsp;<input type=\"radio\" name=\"gh_compensation_frequency\" value=\"annually\"> Annually<\/label>\n\t\t\t\t\t<\/span>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"cfbpage\" data-page=\"8\">\n\t\t<div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<p style=\"margin-top: 0\">IN WITNESS WHEREOF, COMPANY has caused this agreement to be executed by authority duly given and Employee has hereunto set his\/her hand and seal, the day and year first above written.<\/p>\n\t\t\t<p>GO-FORTH PEST MANAGEMENT, INC.<\/p>\n\t\t\t<div class=\"go-forth-new-employment-row\" style=\"margin: 20px auto\">\n\t\t\t\t<!-- <div class=\"block-layout block-layout-xs\" style=\"width: 50%;\">\n\t\t\t\t\t<label style=\"\">Print Name : <b>%gh_employer_name%<\/b><\/label>\n\t\t\t\t<\/div> -->\n\t\t\t\t<div class=\"form-input-row submit-button-row\" style=\"height: 50px; border: 0; clear: both; margin-bottom: 5px; padding-bottom: 5px;\">\n\t\t\t\t\t<div style=\"float: left\" class=\"sign_item\">%gh_signature%<\/div>\n\t\t\t\t\t<div style=\"float: right\" class=\"sign_item\">%gh_signature_date%<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"form-input-row submit-button-row\" style=\"border: 0; font-size: 13px; font-weight: bold; padding-top: 0;\">\n\t\t\t\t\t<div style=\"float: left\">Employer Signature<\/div>\n\t\t\t\t\t<div style=\"float: right\">Date<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<!-- <p style=\"margin-top: 40px; margin-bottom: 0\">Employee<\/p>\n\t\t\t<div class=\"go-forth-new-employment-row\" style=\"margin-top: 20px;\">\n\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 50%; height: 50px; display: flex; align-items: flex-end;\">\n\t\t\t\t\t<label style=\"\">Print Name : <b>%gh_employee_name%<\/b><\/label>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"row form-input-row submit-button-row\" style=\"height: 50px; border: 0; border-bottom: 1px solid #ccc; clear: both;\">\n\t\t\t\t\t<div style=\"float: left\" class=\"sign_item\">%gh_signature%<\/div>\n\t\t\t\t\t<div style=\"float: right\" class=\"sign_item\">%gh_signature_date%<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div> -->\n\t\t<\/div>\n\t<\/div>\n\t\n<\/div>\n",
+    "html2": "<style type=\"text\/css\">\n\t.go-forth-new-employment-agreement-custom-form{\n\t\twidth: 100%;\n\t\tmax-width: 1200px;\n\t\tmargin: 0 auto;\n\t\tpadding: 10px;\n\t\tfont-family: Helvetica, Arial, Sans-Serif;\n\t\tbox-sizing: border-box;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .go-forth-new-employment-row{\n\t\twidth: 100%;\n\t\tbox-sizing: border-box;\n\t\toverflow: hidden;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .block-layout{\n\t\tbox-sizing: border-box;\n\t\tfloat: left;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-left{\n\t\twidth: 40%;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-right{\n\t\twidth: 60%;\n\t\ttext-align: right;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-right h3{\n\t\tpadding-top: 15px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content{\n\t\tpadding-bottom: 50px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content p{\n\t\tline-height: 25px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .form-input{\n\t\tborder: none;\n\t\tborder-bottom: solid 1px #000;\n\t\toutline: none;\n\t\tfont-size: 16px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content .form-input{\n\t\tmax-width: 60%;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .page-body-content .para-content{\n\t\ttext-indent: 5%;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .signature-content{\n\t\tborder-bottom: solid 1px #000;\n\t\twidth: 40%;\n\t\theight: 35px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form label{\n\t\tdisplay: inline-block;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .submit-button-row{\n\t\ttext-align: center;\n\t\tborder-top: solid 1px #ccc;\n\t\tpadding-top: 20px;\n\t}\n\t.go-forth-new-employment-agreement-custom-form .submit-button-row .form-submit-button{\n\t\tpadding: 8px 15px;\n\t\tfont-size: 16px;\n\t\tborder-radius: 5px;\n\t\tborder: solid 1px rgba(40,167,69,.5);\n\t\tbackground-color: #28a745;\n\t\tcolor: #fff;\n\t}\n\t@media(max-width: 500px){\n\t\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-left{\n\t\t\twidth: 100%;\n\t\t}\n\t\t.go-forth-new-employment-agreement-custom-form .page-header .page-header-right{\n\t\t\twidth: 100%;\n\t\t\ttext-align: left;\n\t\t}\n\t\t.go-forth-new-employment-agreement-custom-form .block-layout-xs{\n\t\t\twidth: 100% !important;\n\t\t\tmargin-bottom: 15px;\n\t\t}\n\t}\n\t.go-forth-new-employment-agreement-custom-form .sign_item {\n\t\theight: 100%;\n\t\tdisplay: flex;\n\t\talign-items: flex-end;\n\t\tfont-size: 13px;\n\t\tfont-weight: bold;\n\t}\n<\/style>\n<div class=\"go-forth-new-employment-agreement-custom-form\">\n\n\t<input type='hidden' name='gh_employee_name' value='%gh_employee_name%' class='form-control'\/>\n\t<input type='hidden' name='gh_employer_name' value='%gh_employer_name%' class='form-control'\/>\n\n\t<div class=\"cfbpage\" data-page=\"0\">\n\t\t<div class=\"go-forth-new-employment-row page-header\">\n\t\t\t<div class=\"page-header-left block-layout\">\n\t\t\t\t<h4>NORTH CAROLINA<\/h4>\n\t\t\t\t<h4>GUILFORD COUNT<\/h4>\n\t\t\t<\/div>\n\t\t\t<div class=\"page-header-right block-layout\">\n\t\t\t\t<h4>NEW EMPLOYMENT AGREEMENT<\/h4>\n\t\t\t<\/div>\n\t\t<\/div>\n\n\t\t<div class=\"go-forth-new-employment-row page-body-content\" style=\"padding-bottom: 0\">\n\t\t\t<p style=\"text-align: center; margin-top: 30px;\">\n\t\t\t\t<b>Please use the link below to read the terms in the agreement before signing.<\/b>\n\t\t\t<\/p>\n\t\t<!-- <div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<p>Effective date :<\/p>\n\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t<div class=\"effective-date-form go-forth-new-employment-row\">\n\t\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 20%;\">\n\t\t\t\t\t\t<label>Day: <\/label>\n\t\t\t\t\t\t<input type=\"text\" class=\"form-input\" name=\"gh_effective_day\" readonly=\"readonly\">\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 20%;\">\n\t\t\t\t\t\t<label>Month: <\/label>\n\t\t\t\t\t\t<input type=\"text\" class=\"form-input\" name=\"gh_effective_month\" readonly=\"readonly\">\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 20%;\">\n\t\t\t\t\t\t<label>Year: <\/label>\n\t\t\t\t\t\t<input type=\"text\" class=\"form-input\" name=\"gh_effective_year\" readonly=\"readonly\">\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t\t<div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t\t<label style=\"width: 180px;\">\u200bEmployee Name :<\/label>\n\t\t\t\t\t<input class=\"form-input\" type=\"text\" name=\"gh_employee_name\" value=\"%gh_employee_name%\" readonly=\"readonly\">\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t\t<label style=\"width: 180px;\">\u200bAddress :<\/label>\n\t\t\t\t\t<input class=\"form-input\" type=\"text\" name=\"gh_addr\" value=\"%gh_addr%\" readonly=\"readonly\">\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div> -->\n\t<\/div>\n\t<div class=\"cfbpage\" data-page=\"2\">\n\t\t<!-- <div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t<div class=\"go-forth-new-employment-row\">\n\t\t\t\t\t<label style=\"width: 180px;\">\u200bCompensation Amount :<\/label>\n\t\t\t\t\t<input class=\"form-input\" type=\"text\" name=\"gh_compensation_amount\" style=\"width: 180px\" readonly=\"readonly\">\n\t\t\t\t<\/div>\n\t\t\t\t<p><label><input type=\"radio\" name=\"gh_compensation_frequency\" value=\"weekly\" readonly=\"readonly\"> Weekly<\/label><\/p>\n\t\t\t\t<p><label><input type=\"radio\" name=\"gh_compensation_frequency\" value=\"monthly\" readonly=\"readonly\"> Monthly<\/label><\/p>\n\t\t\t\t<p><label><input type=\"radio\" name=\"gh_compensation_frequency\" value=\"annually\" readonly=\"readonly\"> Annually<\/label><\/p>\n\t\t\t<\/div>\n\t\t<\/div> -->\n\t<\/div>\n\t<div class=\"cfbpage\" data-page=\"8\">\n\t\t<div class=\"go-forth-new-employment-row page-body-content\">\n\t\t\t<!-- <p>IN WITNESS WHEREOF, COMPANY has caused this agreement to be executed by authority duly given and Employee has hereunto set his\/her hand and seal, the day and year first above written.<\/p> -->\n\t\t\t<!--\n\t\t\t<p>GO-FORTH PEST MANAGEMENT, INC.<\/p>\n\t\t\t<div class=\"go-forth-new-employment-row\" style=\"margin-top: 20px;\">\n\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 50%;\">\n\t\t\t\t\t<label style=\"\">Print Name : <b>%gh_employer_name%<\/b><\/label>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"row form-input-row submit-button-row\" style=\"height: 50px; border: 0; border-bottom: 1px solid #ccc; clear: both;\">\n\t\t\t\t\t<div style=\"float: left\" class=\"sign_item\">%gh_signature%<\/div>\n\t\t\t\t\t<div style=\"float: right\" class=\"sign_item\">%gh_signature_date%<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<p style=\"margin-top: 40px; margin-bottom: 0\">Employee<\/p>-->\n\t\t\t<div class=\"go-forth-new-employment-row\" style=\"\">\n\t\t\t\t<div class=\"block-layout block-layout-xs\" style=\"width: 50%; height: 50px; display: flex; align-items: flex-end;\">\n\t\t\t\t\t<label style=\"\">Print Name:\n\t\t\t\t\t\t<input type=\"text\" name=\"gh_employee_name\" value=\"%gh_employee_name%\" \n\t\t\t\t\t\t\tstyle=\"font-size: 14px; width: 400px; padding: 6px 8px;\">\n\t\t\t\t\t<\/label>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"row form-input-row submit-button-row\" style=\"height: 50px; border: 0; clear: both;margin-bottom: 5px; padding-bottom: 5px;\">\n\t\t\t\t\t<div style=\"float: left\" class=\"sign_item\">%gh_signature%<\/div>\n\t\t\t\t\t<div style=\"float: right\" class=\"sign_item\">%gh_signature_date%<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"row form-input-row submit-button-row\" style=\"border: 0; font-size: 13px; font-weight: bold; padding-top: 0;\">\n\t\t\t\t\t<div style=\"float: left\">Employee Signature<\/div>\n\t\t\t\t\t<div style=\"float: right\">Date<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n\t\n<\/div>\n",
+    "pdfPage": 9
+}

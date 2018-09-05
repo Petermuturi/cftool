@@ -1,0 +1,239 @@
+{
+    "name": "conditional-job-offer",
+    "fields": {
+        "signer1": [
+            {
+                "gh_applicant_name:text:0:-": {
+                    "name": "gh_applicant_name",
+                    "type": "text",
+                    "xpt": 161.25,
+                    "ypt": 608.25,
+                    "x": 215,
+                    "y": 811,
+                    "display": "gh_applicant_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_phone:text:0:-": {
+                    "name": "gh_phone",
+                    "type": "text",
+                    "xpt": 401.25,
+                    "ypt": 608.25,
+                    "x": 535,
+                    "y": 811,
+                    "display": "gh_phone",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ssn:text:0:-": {
+                    "name": "gh_ssn",
+                    "type": "text",
+                    "xpt": 122.25,
+                    "ypt": 588,
+                    "x": 163,
+                    "y": 784,
+                    "display": "gh_ssn",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_emergency_phone:text:0:-": {
+                    "name": "gh_emergency_phone",
+                    "type": "text",
+                    "xpt": 390,
+                    "ypt": 588,
+                    "x": 520,
+                    "y": 784,
+                    "display": "gh_emergency_phone",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_make_model:text:0:-": {
+                    "name": "gh_make_model",
+                    "type": "text",
+                    "xpt": 176.25,
+                    "ypt": 567.75,
+                    "x": 235,
+                    "y": 757,
+                    "display": "gh_make_model",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_plate_num:text:0:-": {
+                    "name": "gh_plate_num",
+                    "type": "text",
+                    "xpt": 363.75,
+                    "ypt": 567.75,
+                    "x": 485,
+                    "y": 757,
+                    "display": "gh_plate_num",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_birthday:text:0:-": {
+                    "name": "gh_birthday",
+                    "type": "text",
+                    "xpt": 139.5,
+                    "ypt": 547.5,
+                    "x": 186,
+                    "y": 730,
+                    "display": "gh_birthday",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_age_if_u18:text:0:-": {
+                    "name": "gh_age_if_u18",
+                    "type": "text",
+                    "xpt": 346.5,
+                    "ypt": 547.5,
+                    "x": 462,
+                    "y": 730,
+                    "display": "gh_age_if_u18",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_email:text:0:-": {
+                    "name": "gh_email",
+                    "type": "text",
+                    "xpt": 145.5,
+                    "ypt": 528,
+                    "x": 194,
+                    "y": 704,
+                    "display": "gh_email",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_job:text:0:-": {
+                    "name": "gh_job",
+                    "type": "text",
+                    "xpt": 142.5,
+                    "ypt": 460.5,
+                    "x": 190,
+                    "y": 614,
+                    "display": "gh_job",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_pay_hourly:text:0:-": {
+                    "name": "gh_pay_hourly",
+                    "type": "text",
+                    "xpt": 372,
+                    "ypt": 460.5,
+                    "x": 496,
+                    "y": 614,
+                    "display": "gh_pay_hourly",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_startdate:text:0:-": {
+                    "name": "gh_startdate",
+                    "type": "text",
+                    "xpt": 125.25,
+                    "ypt": 420.75,
+                    "x": 167,
+                    "y": 561,
+                    "display": "gh_startdate",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_available_on_holidays:checkbox:0:-": {
+                    "name": "gh_available_on_holidays",
+                    "type": "checkbox",
+                    "xpt": 79.5,
+                    "ypt": 392.25,
+                    "x": 106,
+                    "y": 523,
+                    "display": "x",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_available_on_details:text:0:-": {
+                    "name": "gh_available_on_details",
+                    "type": "text",
+                    "xpt": 261.75,
+                    "ypt": 379.5,
+                    "x": 349,
+                    "y": 506,
+                    "display": "gh_available_on_details",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "x": 127,
+                    "y": 256,
+                    "display": "gh_employee_name",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 95.25,
+                    "ypt": 192
+                },
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 241,
+                    "y": 167,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 180.75,
+                    "ypt": 125.25
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 523,
+                    "y": 167,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 392.25,
+                    "ypt": 125.25
+                }
+            }
+        ],
+        "signer2": [
+            {
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 241,
+                    "y": 131,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 180.75,
+                    "ypt": 98.25
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 523,
+                    "y": 130,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 392.25,
+                    "ypt": 97.5
+                }
+            }
+        ]
+    },
+    "pdfURL": "uploads\/5b875a8c640e9.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": true,
+    "signer1": "employee",
+    "signer2": "employer",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n\tpadding: 10px 0;\n}\nbody .gh-cf-base * {\n\tfont-family: sans-serif;\n\tbox-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n\tfont-size: 90%;\n}\nbody .gh-cf-base .f70 {\n\tfont-size: 70%;\n}\nbody .gh-cf-base .b1 {\n\tborder: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n\ttext-align: center;\n}\nbody .gh-cf-base .slbenrow {\n\tpadding: 8px 10px;\n\tbackground: #eee;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 0;\n\tposition: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n\tborder-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n\toverflow: hidden;\n\tborder-bottom: 1px solid #ddd;\n    margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n\tborder: 0;\n\tmargin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n\tfloat: left;\n    padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n    display: block;\n    font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n    display: block;\n    font-size: 12px;\n    width: calc(100% - 10px);\n    margin-top: 3px;\n    resize: none;\n}\nbody .gh-cf-base hr {\n\tborder-color: #eee !important;\n}\nbody .gh-cf-base .error {\n    color: #bd0404;\n    font-size: 12px;\n    font-weight: normal !important;\n    width: 100%;\n\ttext-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n\tdisplay: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n\tmargin-left: 2px;\n}\nbody .gh-cf-base .btn {\n    color: #fff;\n    padding: 4px 10px;\n    margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n\tbackground: #39609b;\n\tborder: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n\tbackground: #a72525;\n\tborder: 1px solid #a72525;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n\t<div class=\"centered-section\">\n\t\t<h3>CONDITIONAL JOB OFFER<\/h3>\n\t\t<hr style=\"margin-top: 0; border-bottom: 0;\">\n\t<\/div>\n\t<div class=\"b1 f90 slbenrow\">\n\t\t<div class=\"cfbpage\" data-page=\"0\">\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Applicant's Name<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_applicant_name' value='%gh_employee_name%'>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Phone #<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_phone' value='%gh_phone%'\n\t\t\t\t\tdata-rule-required=\"false\"\n\t\t\t\t\tdata-validation-type='phone'\n\t\t\t\t\tdata-msg='Please enter in Format XXX-XXX-XXXX'\n\t\t\t\t\tdata-validation-mask='000-000-0000'\n\t\t\t\t\tdata-mask='000-000-0000'\n\t\t\t\t\tdata-rule-phoneUS=\"true\"\n\t\t\t\t\tdata-msg-phoneUS=\"Please enter in Format XXX-XXX-XXXX\"\n\t\t\t\t\t>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Soc Sec#<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_ssn' value='%gh_ssn%'\n\t\t\t\t\tdata-mask=\"000-00-0000\" \n\t\t\t\t\tdata-rule-required=\"false\"  \n\t\t\t\t\tdata-rule-ssn=\"true\" \n\t\t\t\t\tdata-msg-ssn=\"Please enter SSN in the format XXX-XX-XXXX\"\n\t\t\t\t\t>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Emergency Phone #<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_emergency_phone'\n\t\t\t\t\tdata-rule-required=\"false\"\n\t\t\t\t\tdata-validation-type='phone'\n\t\t\t\t\tdata-msg='Please enter in Format XXX-XXX-XXXX'\n\t\t\t\t\tdata-validation-mask='000-000-0000'\n\t\t\t\t\tdata-mask='000-000-0000'\n\t\t\t\t\tdata-rule-phoneUS=\"true\"\n\t\t\t\t\tdata-msg-phoneUS=\"Please enter in Format XXX-XXX-XXXX\"\n\t\t\t\t\t>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Make\/Model\/Year Car<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_make_model'>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Plate #<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_plate_num'>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Date of Birth:<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_birthday' value=\"%gh_birthday%\"\n\t\t\t\t\tdata-rule-date=\"true\" \n\t\t\t\t\tdata-msg-date=\"Please enter date in the format MM\/DD\/YYYY\"\n\t\t\t\t\tplaceholder=\"MM\/DD\/YYYY\" \n\t\t\t\t\tdata-mask=\"00\/00\/0000\" \n\t\t\t\t\t>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label><b>AGE if under 18:<\/b><\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_age_if_u18'>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label><b>Email Address:<\/b><\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_email' value=\"%gh_email%\"\n\t\t\t\t\tdata-rule-required=\"true\"\n\t\t\t\t\tdata-validation-type='email'\n\t\t\t\t\tdata-msg='Please enter a valid email address'\n\t\t\t\t\t>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow nodiv\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<p>Based on your request for employment and a preliminary interview, you are hereby offered employment at The Bedford Village Inn.<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Job Hired For:<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_job'>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Rate of Pay:<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_pay_hourly' value=\"%gh_pay_hourly%\">\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<p style=\"font-size: 80%\"><i>For Servers and Bartenders use the Direct Tipped Employee Pay and information sheet in addition to this form.<\/i><\/p>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 50%\">\n\t\t\t\t\t<label>Start Date:<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_startdate' value=\"%gh_startdate%\"\n\t\t\t\t\tdata-rule-date=\"true\" \n\t\t\t\t\tdata-msg-date=\"Please enter date in the format MM\/DD\/YYYY\"\n\t\t\t\t\tplaceholder=\"MM\/DD\/YYYY\" \n\t\t\t\t\tdata-mask=\"00\/00\/0000\" \n\t\t\t\t\t>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<p style=\"font-size: 80%\"><i>(16 & 17 year olds must submit Permission Forms before being Scheduled)<\/i><\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow nodiv\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<label>\n\t\t\t\t\t\t<input type=\"checkbox\" name=\"gh_available_on_holidays\">&nbsp;\n\t\t\t\t\t\tYes, I am available to work holiday and weekends.\n\t\t\t\t\t<\/label>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<label>Days and times you are available to work:<\/label>\n\t\t\t\t\t<input type=\"text\" name='gh_available_on_details'>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%; border: 1px solid #777;\">\n\t\t\t\t\t<p style=\"margin: 10px;\">I,&nbsp;<input type=\"text\" name=\"gh_employee_name\" value=\"%gh_employee_name%\" style=\"display: inline-block; width: 150px;\">&nbsp;(employee), have been informed of the necessary job functions for the position for which I have been hired. I hereby certify that I am fully capable of performing each and every element of the position. I also agree to and understand all of the above.<\/p>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<div class='margin_top_30 custom_form_gh_signature'>\n\t\t\t\t\t\t<div style='float: left'>\n\t\t\t\t\t\t\t<div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n\t\t\t\t\t\t\t\t<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div><label class='doc-small3'>Employee Signature<\/label><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<div style='float: right;'>\n\t\t\t\t\t\t\t<div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div><label class='doc-small3'>Date<\/label><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<div style='clear: both; height: 0px'> <\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n\n",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

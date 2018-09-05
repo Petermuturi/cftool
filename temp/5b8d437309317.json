@@ -1,0 +1,92 @@
+{
+    "name": "pg-8-saved",
+    "fields": {
+        "signer1": [
+            {
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "xpt": 96.75,
+                    "ypt": 405,
+                    "x": 129,
+                    "y": 540,
+                    "display": "gh_employee_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ssn:text:0:-": {
+                    "name": "gh_ssn",
+                    "type": "text",
+                    "xpt": 316.5,
+                    "ypt": 401.25,
+                    "x": 422,
+                    "y": 535,
+                    "display": "gh_ssn",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_addr:text:0:-": {
+                    "name": "gh_addr",
+                    "type": "text",
+                    "xpt": 85.5,
+                    "ypt": 242.25,
+                    "x": 114,
+                    "y": 323,
+                    "display": "gh_addr",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_phone:text:0:-": {
+                    "name": "gh_phone",
+                    "type": "text",
+                    "xpt": 85.5,
+                    "ypt": 84,
+                    "x": 114,
+                    "y": 112,
+                    "display": "gh_phone",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 129,
+                    "y": 492,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 96.75,
+                    "ypt": 369
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 422,
+                    "y": 488,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 316.5,
+                    "ypt": 366
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8d411a19d68.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n  padding: 10px 0;\n}\nbody .gh-cf-base * {\n  font-family: sans-serif;\n  box-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n  font-size: 90%;\n}\nbody .gh-cf-base .f70 {\n  font-size: 70%;\n}\nbody .gh-cf-base .b1 {\n  border: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n  text-align: center;\n}\nbody .gh-cf-base .slbenrow {\n  padding: 8px 10px;\n  background: #eee;\n  margin-bottom: 10px;\n  padding-bottom: 0;\n  position: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n  border-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n  overflow: hidden;\n  border-bottom: 1px solid #ddd;\n  margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n  border: 0;\n  margin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n  float: left;\n  padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n  display: block;\n  font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n  display: block;\n  font-size: 12px;\n  width: calc(100% - 10px);\n  margin-top: 3px;\n  resize: none;\n}\nbody .gh-cf-base hr {\n  border-color: #eee !important;\n}\nbody .gh-cf-base .error {\n  color: #bd0404;\n  font-size: 12px;\n  font-weight: normal !important;\n  width: 100%;\n  text-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n  margin-left: 2px;\n}\nbody .gh-cf-base .btn {\n  color: #fff;\n  padding: 4px 10px;\n  margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n  background: #39609b;\n  border: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n  background: #a72525;\n  border: 1px solid #a72525;\n}\nbody .gh-cf-table th {\n  font-weight: normal;\n  text-align: left;\n  font-size: 12px;\n  background: #ddd;\n  padding: 5px;\n}\nbody .gh-cf-table tr[data-injury] {\n  display: none;\n}\nbody .gh-cf-base .btn.btn-sm.btn-danger.btn-remove-injury {\n  padding: 1px 6px;\n  margin: 0;\n  margin-top: 3px;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n  <div class=\"centered-section\">\n    <h3>Union Membership Fees<\/h3>\n  <\/div>\n  <div class=\"b1 f90 slbenrow\">\n    <div class=\"cfbpage\" data-page=\"0\">\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\">\n          <p>\n          I hereby assign to Stagehands Local Two, I.A.T.S.E., (\"Union\") from any wages earned or to be earned by me as your employee, my periodic dues, initiation fee and any assessments, or fees in lieu thereof, in such amounts as are now or hereafter established by the Union and which become due to the Union as my membership dues, or fees in lieu thereof. I authorize and direct you to deduct and withhold such amounts from my pay and to remit the same to the Union.\n          <\/p>\n\n          <p>\n          This assignment, authorization and direction shall be irrevocable for the period of one year from the date below or until the termination of the collective bargaining agreement between the Employer and the Union, whichever occurs sooner. I understand that Union membership is not a condition of employment or of this authorization and that this authorization may only be revoked as specifically provided by its terms. I agree and direct that this assignment, authorization and direction shall be automatically renewed for successive periods of one year each or for the period of each succeeding applicable collective bargaining agreement between the Employer and Union, whichever shall be shorter, unless written notice or revocation is given to the Employer not more than twenty (20) days and not less than ten (10) days prior to the expiration of each period of one year, or of each applicable collection bargaining agreement between the Employer and the Union, whichever occurs sooner.\n          <\/p>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Please print your name:<\/label>\n          <input type=\"text\" name='gh_employee_name' value='%gh_employee_name%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Social Security Number:<\/label>\n          <input type=\"text\" name='gh_ssn' value='%gh_ssn%'>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 66.66%\">\n          <label>Address:<\/label>\n          <input type=\"text\" name='gh_addr' value='%gh_addr%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Phone:<\/label>\n          <input type=\"text\" name='gh_phone' value='%gh_phone%' data-mask='000-000-0000'>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <div class='margin_top_30 custom_form_gh_signature'>\n            <div style='float: left'>\n              <div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n                <span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Employee Signature<\/label><\/div>\n            <\/div>\n            <div style='float: right;'>\n              <div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Date<\/label><\/div>\n            <\/div>\n            <div style='clear: both; height: 0px'> <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n\n    <\/div>\n  <\/div>\n<\/div>\n",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

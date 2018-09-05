@@ -1,0 +1,73 @@
+{
+    "name": "ack-work-safety",
+    "fields": {
+        "signer1": [
+            {
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 244,
+                    "y": 310,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 183,
+                    "ypt": 232.5
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 511,
+                    "y": 310,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 383.25,
+                    "ypt": 232.5
+                }
+            }
+        ],
+        "signer2": [
+            {
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 244,
+                    "y": 203,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 183,
+                    "ypt": 152.25
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 511,
+                    "y": 203,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 383.25,
+                    "ypt": 152.25
+                }
+            }
+        ]
+    },
+    "pdfURL": "uploads\/5b8767ce5c356.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": true,
+    "signer1": "employee",
+    "signer2": "employer",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n\tpadding: 10px 0;\n}\nbody .gh-cf-base * {\n\tfont-family: sans-serif;\n\tbox-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n\tfont-size: 90%;\n}\nbody .gh-cf-base .f70 {\n\tfont-size: 70%;\n}\nbody .gh-cf-base .b1 {\n\tborder: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n\ttext-align: center;\n}\nbody .gh-cf-base .slbenrow {\n\tpadding: 8px 10px;\n\tbackground: #eee;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 0;\n\tposition: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n\tborder-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n\toverflow: hidden;\n\tborder-bottom: 1px solid #ddd;\n    margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n\tborder: 0;\n\tmargin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n\tfloat: left;\n    padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n    display: block;\n    font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n    display: block;\n    font-size: 12px;\n    width: calc(100% - 10px);\n    margin-top: 3px;\n    resize: none;\n}\nbody .gh-cf-base hr {\n\tborder-color: #eee !important;\n}\nbody .gh-cf-base .error {\n    color: #bd0404;\n    font-size: 12px;\n    font-weight: normal !important;\n    width: 100%;\n\ttext-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n\tdisplay: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n\tmargin-left: 2px;\n}\nbody .gh-cf-base .btn {\n    color: #fff;\n    padding: 4px 10px;\n    margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n\tbackground: #39609b;\n\tborder: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n\tbackground: #a72525;\n\tborder: 1px solid #a72525;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n\t<div class=\"centered-section\">\n\t\t<h3>ACKNOWLEDGEMENT AND RECEIPT FOR BVI <br>\nWORK RELATED INJURY PROCEDURE <br>\nAND <br>\nSAFETY AND HEALTH POLICY<\/h3>\n\t\t<hr style=\"margin-top: 0; border-bottom: 0;\">\n\t<\/div>\n\t<div class=\"b1 f90 slbenrow\">\n\t\t<div class=\"cfbpage\" data-page=\"0\">\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t\n\t\t\t\t\t<p>I have been provided a copy of the Bedford Village Inn\u2019s (company) Work Related Injury Procedure and Safety and Health Policy and Rules to personally keep as a reference. These goals and objectives were fully explained to me. I understand that personal safety and accident prevention are my responsibility and the responsibility of all employees. I will actively participate in accident prevention. I understand that I will be held accountable for my safety performance.<\/p>\n\n\t\t\t\t\t<p>I have read the information regarding the Work Related Injury Procedure for work related injuries that occur on the premises and I understand the terms of the program as it is stated in the attached Employee Handout.<\/p>\n\n\t\t\t\t\t<p>I fully understand the procedure for reporting an injury I may sustain while at work and I also understand that I must seek medical attention at Bedford Occupational Acute Care (BOAC). I understand that outside BOAC\u2019s hours of operation, I may seek treatment at CMC Urgent Care, Elliot Urgent Care at River\u2019s Edge or Convenient Medical Care on Rt 101, Bedford. I understand that I may go to a hospital emergency room if my injury is life threatening.<\/p>\n\n\t\t\t\t\t<p>I understand my medical care as a result of an injury while at work will be managed by BOAC, even if my first visit for medical attention is at one of the other facilities listed above. In that case I may be required to visit BOAC for an evaluation to determine if further treatment is required.<\/p>\n\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<div class='margin_top_30 custom_form_gh_signature'>\n\t\t\t\t\t\t<div style='float: left'>\n\t\t\t\t\t\t\t<div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n\t\t\t\t\t\t\t\t<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div><label class='doc-small3'>Employee Signature<\/label><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<div style='float: right;'>\n\t\t\t\t\t\t\t<div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div><label class='doc-small3'>Date<\/label><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<div style='clear: both; height: 0px'> <\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n\n",
+    "html2": " ",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

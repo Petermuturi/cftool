@@ -1,0 +1,70 @@
+{
+    "name": "wardrobe-saved",
+    "fields": {
+        "signer1": [
+            {
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "xpt": 156.75,
+                    "ypt": 549,
+                    "x": 209,
+                    "y": 732,
+                    "display": "gh_employee_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ssn:text:0:-": {
+                    "name": "gh_ssn",
+                    "type": "text",
+                    "xpt": 265.5,
+                    "ypt": 507,
+                    "x": 354,
+                    "y": 676,
+                    "display": "gh_ssn",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 410,
+                    "y": 437,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 307.5,
+                    "ypt": 327.75
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 165,
+                    "y": 441,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 123.75,
+                    "ypt": 330.75
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8bd18998349.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n  padding: 10px 0;\n}\nbody .gh-cf-base * {\n  font-family: sans-serif;\n  box-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n  font-size: 90%;\n}\nbody .gh-cf-base .f70 {\n  font-size: 70%;\n}\nbody .gh-cf-base .b1 {\n  border: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n  text-align: center;\n}\nbody .gh-cf-base .slbenrow {\n  padding: 8px 10px;\n  background: #eee;\n  margin-bottom: 10px;\n  padding-bottom: 0;\n  position: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n  border-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n  overflow: hidden;\n  border-bottom: 1px solid #ddd;\n  margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n  border: 0;\n  margin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n  float: left;\n  padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n  display: block;\n  font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n  display: block;\n  font-size: 12px;\n  width: calc(100% - 10px);\n  margin-top: 3px;\n  resize: none;\n}\nbody .gh-cf-base hr {\n  border-color: #eee !important;\n}\nbody .gh-cf-base .error {\n  color: #bd0404;\n  font-size: 12px;\n  font-weight: normal !important;\n  width: 100%;\n  text-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n  margin-left: 2px;\n}\nbody .gh-cf-base .btn {\n  color: #fff;\n  padding: 4px 10px;\n  margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n  background: #39609b;\n  border: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n  background: #a72525;\n  border: 1px solid #a72525;\n}\nbody .gh-cf-table th {\n  font-weight: normal;\n  text-align: left;\n  font-size: 12px;\n  background: #ddd;\n  padding: 5px;\n}\nbody .gh-cf-table tr[data-injury] {\n  display: none;\n}\nbody .gh-cf-base .btn.btn-sm.btn-danger.btn-remove-injury {\n  padding: 1px 6px;\n  margin: 0;\n  margin-top: 3px;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n  <div class=\"centered-section\">\n    <h3>THEATRICAL WARDROBE UNION LOCAL #769<\/h3>\n  <\/div>\n  <div class=\"b1 f90 slbenrow\">\n    <div class=\"cfbpage\" data-page=\"0\">\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 30%\">\n          <label>NAME:<\/label>\n          <input type=\"text\" name='gh_employee_name' value='%gh_employee_name%'>\n        <\/div>\n      <\/div>\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\" style=\"width: 30%\">\n          <label>SOCIAL SECURITY NUMBER:<\/label>\n          <input type=\"text\" name='gh_ssn' value=\"%gh_ssn%\"\n          data-validation-type='ssn'\n          data-mask='000-00-0000'\n          data-msg='Please Enter SSN in Format XXX-XX-XXXX'\n          data-validation-mask='000-00-0000'\n          >\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\">\n           <p>Effective immediately, the undersigned assign to Local 769 of the International Alliance of Theatrical Stage Employees the sum of three percent (3%) of all wages earned, and authorizes and directs his employer to deduct such sum from his or her wages and to remit the same to said union as membership dues. This assignment shall be irrevocable for a period of either one year or until termination of the applicable collective bargaining agreement, whichever is sooner; and shall be automatically renewed, with the same irrevocability, for successive like periods, unless terminated by the undersigned in writing not more than twenty (20) nor less than ten (10) days prior to the expiration of such period.<\/p>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <div class='margin_top_30 custom_form_gh_signature'>\n            <div style='float: left'>\n              <div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n                <span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Employee Signature<\/label><\/div>\n            <\/div>\n            <div style='float: right;'>\n              <div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Date<\/label><\/div>\n            <\/div>\n            <div style='clear: both; height: 0px'> <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n\n    <\/div>\n  <\/div>\n<\/div>\n\n<script>\nfunction toggleSection(_show, _section) {\n  var section = $('[data-toggle-section=\"' + _section + '\"]');\n  section.css({\n    display: (_show ? 'block' : 'none')\n  });\n  if(!_show) {\n    section.find('input, select').val('');\n    section.find('input[type=\"checkbox\"], input[type=\"radio\"]').prop('checked', false);\n  }\n  else {\n    section.find('input').first().focus();\n  }\n}\nvar lastShownInjury = 1;\nfunction addInjury() {\n  if(lastShownInjury < 8) lastShownInjury++;\n  $('[data-injury=\"' + lastShownInjury + '\"]').show();\n  $('.btn-remove-injury').hide();\n  $('[data-injury]:visible').last().find('.btn-remove-injury').show();\n  if(lastShownInjury === 8) $('.btn-add-injury').hide();\n  return false;\n}\nfunction removeInjury() {\n  var injury = $('[data-injury=\"' + lastShownInjury + '\"]');\n  injury.find('input, select').val('');\n  injury.find('input[type=\"checkbox\"], input[type=\"radio\"]').prop('checked', false);\n  injury.hide();\n  lastShownInjury--;\n  $('.btn-remove-injury').hide();\n  $('[data-injury]:visible').last().find('.btn-remove-injury').show();\n  $('.btn-add-injury').show();\n  return false;\n}\n<\/script>",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

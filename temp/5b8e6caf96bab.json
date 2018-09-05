@@ -1,0 +1,380 @@
+{
+    "name": "release-information",
+    "fields": {
+        "signer1": [
+            {
+                "gh_fname:text:0:-": {
+                    "name": "gh_fname",
+                    "type": "text",
+                    "xpt": 102.75,
+                    "ypt": 577.5,
+                    "x": 137,
+                    "y": 770,
+                    "display": "gh_fname",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_mname:text:0:-": {
+                    "name": "gh_mname",
+                    "type": "text",
+                    "xpt": 190.5,
+                    "ypt": 577.5,
+                    "x": 254,
+                    "y": 770,
+                    "display": "gh_mname",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_lname:text:0:-": {
+                    "name": "gh_lname",
+                    "type": "text",
+                    "xpt": 300.75,
+                    "ypt": 577.5,
+                    "x": 401,
+                    "y": 770,
+                    "display": "gh_lname",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_maiden_name:text:0:-": {
+                    "name": "gh_maiden_name",
+                    "type": "text",
+                    "xpt": 428.25,
+                    "ypt": 577.5,
+                    "x": 571,
+                    "y": 770,
+                    "display": "gh_maiden_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_other_name:text:0:-": {
+                    "name": "gh_other_name",
+                    "type": "text",
+                    "xpt": 102.75,
+                    "ypt": 506.25,
+                    "x": 137,
+                    "y": 675,
+                    "display": "gh_other_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_addr:text:0:-": {
+                    "name": "gh_addr",
+                    "type": "text",
+                    "xpt": 102.75,
+                    "ypt": 437.25,
+                    "x": 137,
+                    "y": 583,
+                    "display": "gh_addr",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_street_name_1:text:0:-": {
+                    "name": "gh_street_name_1",
+                    "type": "text",
+                    "xpt": 203.25,
+                    "ypt": 437.25,
+                    "x": 271,
+                    "y": 583,
+                    "display": "gh_street_name_1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_apt:text:0:-": {
+                    "name": "gh_apt",
+                    "type": "text",
+                    "xpt": 306.75,
+                    "ypt": 437.25,
+                    "x": 409,
+                    "y": 583,
+                    "display": "gh_apt",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_city:text:0:-": {
+                    "name": "gh_city",
+                    "type": "text",
+                    "xpt": 363,
+                    "ypt": 437.25,
+                    "x": 484,
+                    "y": 583,
+                    "display": "gh_city",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_state:text:0:-": {
+                    "name": "gh_state",
+                    "type": "text",
+                    "xpt": 417.75,
+                    "ypt": 437.25,
+                    "x": 557,
+                    "y": 583,
+                    "display": "gh_state",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_zip:text:0:-": {
+                    "name": "gh_zip",
+                    "type": "text",
+                    "xpt": 473.25,
+                    "ypt": 437.25,
+                    "x": 631,
+                    "y": 583,
+                    "display": "gh_zip",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_addr_2:text:0:-": {
+                    "name": "gh_addr_2",
+                    "type": "text",
+                    "xpt": 102.75,
+                    "ypt": 400.5,
+                    "x": 137,
+                    "y": 534,
+                    "display": "gh_addr_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_street_name_2:text:0:-": {
+                    "name": "gh_street_name_2",
+                    "type": "text",
+                    "xpt": 203.25,
+                    "ypt": 400.5,
+                    "x": 271,
+                    "y": 534,
+                    "display": "gh_street_name_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_apt_2:text:0:-": {
+                    "name": "gh_apt_2",
+                    "type": "text",
+                    "xpt": 306.75,
+                    "ypt": 400.5,
+                    "x": 409,
+                    "y": 534,
+                    "display": "gh_apt_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_city_2:text:0:-": {
+                    "name": "gh_city_2",
+                    "type": "text",
+                    "xpt": 363,
+                    "ypt": 400.5,
+                    "x": 484,
+                    "y": 534,
+                    "display": "gh_city_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_state_2:text:0:-": {
+                    "name": "gh_state_2",
+                    "type": "text",
+                    "xpt": 417.75,
+                    "ypt": 400.5,
+                    "x": 557,
+                    "y": 534,
+                    "display": "gh_state_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_zip_2:text:0:-": {
+                    "name": "gh_zip_2",
+                    "type": "text",
+                    "xpt": 473.25,
+                    "ypt": 400.5,
+                    "x": 631,
+                    "y": 534,
+                    "display": "gh_zip_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_addr_3:text:0:-": {
+                    "name": "gh_addr_3",
+                    "type": "text",
+                    "xpt": 102.75,
+                    "ypt": 363,
+                    "x": 137,
+                    "y": 484,
+                    "display": "gh_addr_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_street_name_3:text:0:-": {
+                    "name": "gh_street_name_3",
+                    "type": "text",
+                    "xpt": 203.25,
+                    "ypt": 363,
+                    "x": 271,
+                    "y": 484,
+                    "display": "gh_street_name_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_apt_3:text:0:-": {
+                    "name": "gh_apt_3",
+                    "type": "text",
+                    "xpt": 306.75,
+                    "ypt": 363,
+                    "x": 409,
+                    "y": 484,
+                    "display": "gh_apt_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_city_3:text:0:-": {
+                    "name": "gh_city_3",
+                    "type": "text",
+                    "xpt": 363,
+                    "ypt": 363,
+                    "x": 484,
+                    "y": 484,
+                    "display": "gh_city_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_state_3:text:0:-": {
+                    "name": "gh_state_3",
+                    "type": "text",
+                    "xpt": 417.75,
+                    "ypt": 363,
+                    "x": 557,
+                    "y": 484,
+                    "display": "gh_state_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_zip_3:text:0:-": {
+                    "name": "gh_zip_3",
+                    "type": "text",
+                    "xpt": 473.25,
+                    "ypt": 363,
+                    "x": 631,
+                    "y": 484,
+                    "display": "gh_zip_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_driver_license_num:text:0:-": {
+                    "name": "gh_driver_license_num",
+                    "type": "text",
+                    "xpt": 207.75,
+                    "ypt": 329.25,
+                    "x": 277,
+                    "y": 439,
+                    "display": "gh_driver_license_num",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_dl_state:text:0:-": {
+                    "name": "gh_dl_state",
+                    "type": "text",
+                    "xpt": 435.75,
+                    "ypt": 329.25,
+                    "x": 581,
+                    "y": 439,
+                    "display": "gh_dl_state",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ssn:text:0:-": {
+                    "name": "gh_ssn",
+                    "type": "text",
+                    "xpt": 207,
+                    "ypt": 306,
+                    "x": 276,
+                    "y": 408,
+                    "display": "gh_ssn",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_birthday:text:0:-": {
+                    "name": "gh_birthday",
+                    "type": "text",
+                    "xpt": 432,
+                    "ypt": 306.75,
+                    "x": 576,
+                    "y": 409,
+                    "display": "gh_birthday",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_convict:radio:0:1": {
+                    "name": "gh_convict",
+                    "type": "radio",
+                    "xpt": 301.5,
+                    "ypt": 270,
+                    "x": 402,
+                    "y": 360,
+                    "display": "x",
+                    "value": "1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_convict:radio:0:0": {
+                    "name": "gh_convict",
+                    "type": "radio",
+                    "xpt": 379.5,
+                    "ypt": 270.75,
+                    "x": 506,
+                    "y": 361,
+                    "display": "x",
+                    "value": "0",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_citizenship:text:0:-": {
+                    "name": "gh_citizenship",
+                    "type": "text",
+                    "xpt": 240,
+                    "ypt": 246.75,
+                    "x": 320,
+                    "y": 329,
+                    "display": "gh_citizenship",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 215,
+                    "y": 144,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 161.25,
+                    "ypt": 108
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 573,
+                    "y": 146,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 429.75,
+                    "ypt": 109.5
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8e6b1ad782b.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n  padding: 10px 0;\n}\nbody .gh-cf-base * {\n  font-family: sans-serif;\n  box-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n  font-size: 90%;\n}\nbody .gh-cf-base .f70 {\n  font-size: 70%;\n}\nbody .gh-cf-base .b1 {\n  border: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n  text-align: center;\n}\nbody .gh-cf-base .slbenrow {\n  padding: 8px 10px;\n  background: #eee;\n  margin-bottom: 10px;\n  padding-bottom: 0;\n  position: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n  border-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n  overflow: hidden;\n  border-bottom: 1px solid #ddd;\n  margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n  border: 0;\n  margin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n  float: left;\n  padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n  display: block;\n  font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n  display: block;\n  font-size: 12px;\n  width: calc(100% - 10px);\n  margin-top: 3px;\n  resize: none;\n}\nbody .gh-cf-base hr {\n  border-color: #eee !important;\n}\nbody .gh-cf-base .error {\n  color: #bd0404;\n  font-size: 12px;\n  font-weight: normal !important;\n  width: 100%;\n  text-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n  margin-left: 2px;\n}\nbody .gh-cf-base .btn {\n  color: #fff;\n  padding: 4px 10px;\n  margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n  background: #39609b;\n  border: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n  background: #a72525;\n  border: 1px solid #a72525;\n}\nbody .gh-cf-table th {\n  font-weight: normal;\n  text-align: left;\n  font-size: 12px;\n  background: #ddd;\n  padding: 5px;\n}\nbody .gh-cf-table tr[data-injury] {\n  display: none;\n}\nbody .gh-cf-base .btn.btn-sm.btn-danger.btn-remove-injury {\n  padding: 1px 6px;\n  margin: 0;\n  margin-top: 3px;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n  <div class=\"centered-section\">\n    <h3>CONSENT FOR RELEASE OF INFORMATION<\/h3>\n  <\/div>\n  <div class=\"b1 f90 slbenrow\">\n    <div class=\"cfbpage\" data-page=\"0\">\n      <p>Please fill in the following information for background identification purposes.<\/p>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>First Name<\/label>\n          <input type=\"text\" name='gh_fname' value='%gh_fname%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>Middle Name<\/label>\n          <input type=\"text\" name='gh_mname' value='%gh_mname%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>Last Name<\/label>\n          <input type=\"text\" name='gh_lname' value='%gh_lname%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>Maiden Name<\/label>\n          <input type=\"text\" name='gh_maiden_name' value='%gh_maiden_name%'>\n        <\/div>\n      <\/div>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Indicate any other names you may have used (other married names, nicknames, etc.)<\/label>\n          <input type=\"text\" name='gh_other_name'>\n        <\/div>\n      <\/div>\n\n      <p>List All addresses you have resided at within the <span style=\"text-decoration:underline\">past TEN years:<\/span> <br> <b>PRESENT<\/b> <\/p>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Street Address<\/label>\n          <input type=\"text\" name='gh_addr' value='%gh_addr%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Street Name<\/label>\n          <input type=\"text\" name='gh_street_name_1'>\n        <\/div>\n      <\/div>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>Apt #<\/label>\n          <input type=\"text\" name='gh_apt'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>City<\/label>\n          <input type=\"text\" name='gh_city' value='%gh_city%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>State<\/label>\n          <input type=\"text\" maxlength='2' name='gh_state' value='%gh_state%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 25%\">\n          <label>Zip<\/label>\n          <input type=\"text\" name='gh_zip' value='%gh_zip%'>\n        <\/div>\n      <\/div>\n      <div style=\"border: 1px solid #aaa; margin-bottom: 10px; padding: 10px; padding-bottom: 0; display: none; position: relative;\" data-address=\"2\">\n        <div class=\"slrow\">\n          <div class=\"slcol\" style=\"width: 50%\">\n            <label>Street Address<\/label>\n            <input type=\"text\" name='gh_addr_2'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 50%\">\n            <label>Street Name<\/label>\n            <input type=\"text\" name='gh_street_name_2'>\n          <\/div>\n        <\/div>\n        <div class=\"slrow\">\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>Apt #<\/label>\n            <input type=\"text\" name='gh_apt_2'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>City<\/label>\n            <input type=\"text\" name='gh_city_2'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>State<\/label>\n            <input type=\"text\" maxlength='2' name='gh_state_2'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>Zip<\/label>\n            <input type=\"text\" name='gh_zip_2'>\n          <\/div>\n        <\/div>\n        <button class=\"btn btn-sm btn-danger btn-remove-address\" type=\"button\" style=\"position: absolute; top: 10px; right: 10px;\" onclick=\"return removePreviousAddress()\">Remove<\/button>\n      <\/div>\n\n      <div style=\"border: 1px solid #aaa; margin-bottom: 10px; padding: 10px; padding-bottom: 0; display: none; position: relative;\" data-address=\"3\">\n        <div class=\"slrow\">\n          <div class=\"slcol\" style=\"width: 50%\">\n            <label>Street Address<\/label>\n            <input type=\"text\" name='gh_addr_3'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 50%\">\n            <label>Street Name<\/label>\n            <input type=\"text\" name='gh_street_name_3'>\n          <\/div>\n        <\/div>\n        <div class=\"slrow\">\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>Apt #<\/label>\n            <input type=\"text\" name='gh_apt_3'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>City<\/label>\n            <input type=\"text\" name='gh_city_3'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>State<\/label>\n            <input type=\"text\" maxlength='2' name='gh_state_3'>\n          <\/div>\n          <div class=\"slcol\" style=\"width: 25%\">\n            <label>Zip<\/label>\n            <input type=\"text\" name='gh_zip_3'>\n          <\/div>\n        <\/div>\n        <button class=\"btn btn-sm btn-danger btn-remove-address\" type=\"button\" style=\"position: absolute; top: 10px; right: 10px;\" onclick=\"return removePreviousAddress()\">Remove<\/button>\n      <\/div>\n      <button class=\"btn btn-sm btn-default btn-add-address\" type=\"button\" onclick=\"return addPreviousAddress()\">Add Previous Address<\/button>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Driver's License Number<\/label>\n          <input type=\"text\" name='gh_driver_license_num' value='%gh_driver_license_num%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Issuing State<\/label>\n          <input type=\"text\" name='gh_dl_state' value='%gh_dl_state%'>\n        <\/div>\n      <\/div>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Social Security Number<\/label>\n          <input type=\"text\" name='gh_ssn' value='%gh_ssn%' data-mask='000-00-0000'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Date of Birth<\/label>\n          <input type=\"text\" name='gh_birthday' value='%gh_birthday%' data-mask='00\/00\/0000'>\n        <\/div>\n      <\/div>\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <label>Have you ever been convicted of any criminal offense (felony or misdemeanor)? If so explain on a separate sheet of paper and attach to this form.<\/label>\n          <div>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_convict' value=\"1\">Yes<\/label>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_convict' value=\"0\">No<\/label>\n          <\/div>\n        <\/div>\n      <\/div>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 30%\">\n          <label>I am a citizen of (name country):<\/label>\n          <input type=\"text\" name='gh_citizenship'>\n        <\/div>\n      <\/div>\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <p>\n            I certify that I have reviewed the foregoing information supplied by me and that it is true and correct to the best of my knowledge. In accordance with the Privacy Act, Freedom of Information Act, and the Fair Credit Reporting Act, I authorize the background company and any person associated with any educational institution, past or present employer, any law enforcement, court, driving records, or credit reporting agency to RELEASE this information to the background agency for the purposes of being considered for employment. RELEASE the background company and all persons from liability as a result of furnishing the foregoing information. I also authorize that a copy of the RELEASE be as valid as an original.\n          <\/p>\n        <\/div>\n      <\/div>\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <div class='margin_top_30 custom_form_gh_signature'>\n            <div style='float: left'>\n              <div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n                <span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Employee Signature<\/label><\/div>\n            <\/div>\n            <div style='float: right;'>\n              <div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Date<\/label><\/div>\n            <\/div>\n            <div style='clear: both; height: 0px'> <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n\n    <\/div>\n  <\/div>\n<\/div>\n\n<script>\nvar lastShownAddress = 1;\nfunction addPreviousAddress() {\n  if(lastShownAddress < 3) lastShownAddress++;\n  $('[data-address=\"' + lastShownAddress + '\"]').show();\n  $('.btn-remove-address').hide();\n  $('[data-address]:visible').last().find('.btn-remove-address').show();\n  if(lastShownAddress === 3) $('.btn-add-address').hide();\n  return false;\n}\nfunction removePreviousAddress() {\n  var address = $('[data-address=\"' + lastShownAddress + '\"]');\n  address.find('input, select').val('');\n  address.find('input[type=\"checkbox\"], input[type=\"radio\"]').prop('checked', false);\n  address.hide();\n  lastShownAddress--;\n  $('.btn-remove-address').hide();\n  $('[data-address]:visible').last().find('.btn-remove-address').show();\n  $('.btn-add-address').show();\n  return false;\n}\n<\/script>\n",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

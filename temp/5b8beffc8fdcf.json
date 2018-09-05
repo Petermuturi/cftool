@@ -1,0 +1,165 @@
+{
+    "name": "self-identification-saved",
+    "fields": {
+        "signer1": [
+            {
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "xpt": 179.25,
+                    "ypt": 501.75,
+                    "x": 239,
+                    "y": 669,
+                    "display": "gh_employee_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_job_title:text:0:-": {
+                    "name": "gh_job_title",
+                    "type": "text",
+                    "xpt": 179.25,
+                    "ypt": 480.75,
+                    "x": 239,
+                    "y": 641,
+                    "display": "gh_job_title",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_gender:radio:0:0": {
+                    "name": "gh_gender",
+                    "type": "radio",
+                    "xpt": 136.5,
+                    "ypt": 395.25,
+                    "x": 182,
+                    "y": 527,
+                    "display": "x",
+                    "value": "0",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_gender:radio:0:1": {
+                    "name": "gh_gender",
+                    "type": "radio",
+                    "xpt": 136.5,
+                    "ypt": 414.75,
+                    "x": 182,
+                    "y": 553,
+                    "display": "x",
+                    "value": "1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ethnicity:radio:0:1": {
+                    "name": "gh_ethnicity",
+                    "type": "radio",
+                    "xpt": 117.75,
+                    "ypt": 338.25,
+                    "x": 157,
+                    "y": 451,
+                    "display": "x",
+                    "value": "1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ethnicity:radio:0:2": {
+                    "name": "gh_ethnicity",
+                    "type": "radio",
+                    "xpt": 116.25,
+                    "ypt": 309.75,
+                    "x": 155,
+                    "y": 413,
+                    "display": "x",
+                    "value": "2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ethnicity:radio:0:3": {
+                    "name": "gh_ethnicity",
+                    "type": "radio",
+                    "xpt": 115.5,
+                    "ypt": 281.25,
+                    "x": 154,
+                    "y": 375,
+                    "display": "x",
+                    "value": "3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ethnicity:radio:0:4": {
+                    "name": "gh_ethnicity",
+                    "type": "radio",
+                    "xpt": 114,
+                    "ypt": 252,
+                    "x": 152,
+                    "y": 336,
+                    "display": "x",
+                    "value": "4",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ethnicity:radio:0:5": {
+                    "name": "gh_ethnicity",
+                    "type": "radio",
+                    "xpt": 113.25,
+                    "ypt": 223.5,
+                    "x": 151,
+                    "y": 298,
+                    "display": "x",
+                    "value": "5",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ethnicity:radio:0:6": {
+                    "name": "gh_ethnicity",
+                    "type": "radio",
+                    "xpt": 111.75,
+                    "ypt": 183.75,
+                    "x": 149,
+                    "y": 245,
+                    "display": "x",
+                    "value": "6",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ethnicity:radio:0:7": {
+                    "name": "gh_ethnicity",
+                    "type": "radio",
+                    "xpt": 110.25,
+                    "ypt": 144.75,
+                    "x": 147,
+                    "y": 193,
+                    "display": "x",
+                    "value": "7",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_dated_completed:text:0:-": {
+                    "name": "gh_dated_completed",
+                    "type": "text",
+                    "xpt": 168,
+                    "ypt": 105.75,
+                    "x": 224,
+                    "y": 141,
+                    "display": "gh_dated_completed",
+                    "selected": false,
+                    "instance": 0
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8becca20ff4.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n  padding: 10px 0;\n}\nbody .gh-cf-base * {\n  font-family: sans-serif;\n  box-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n  font-size: 90%;\n}\nbody .gh-cf-base .f70 {\n  font-size: 70%;\n}\nbody .gh-cf-base .b1 {\n  border: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n  text-align: center;\n}\nbody .gh-cf-base .slbenrow {\n  padding: 8px 10px;\n  background: #eee;\n  margin-bottom: 10px;\n  padding-bottom: 0;\n  position: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n  border-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n  overflow: hidden;\n  border-bottom: 1px solid #ddd;\n  margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n  border: 0;\n  margin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n  float: left;\n  padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n  display: block;\n  font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n  display: block;\n  font-size: 12px;\n  width: calc(100% - 10px);\n  margin-top: 3px;\n  resize: none;\n}\nbody .gh-cf-base hr {\n  border-color: #eee !important;\n}\nbody .gh-cf-base .error {\n  color: #bd0404;\n  font-size: 12px;\n  font-weight: normal !important;\n  width: 100%;\n  text-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n  margin-left: 2px;\n}\nbody .gh-cf-base .btn {\n  color: #fff;\n  padding: 4px 10px;\n  margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n  background: #39609b;\n  border: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n  background: #a72525;\n  border: 1px solid #a72525;\n}\nbody .gh-cf-table th {\n  font-weight: normal;\n  text-align: left;\n  font-size: 12px;\n  background: #ddd;\n  padding: 5px;\n}\nbody .gh-cf-table tr[data-injury] {\n  display: none;\n}\nbody .gh-cf-base .btn.btn-sm.btn-danger.btn-remove-injury {\n  padding: 1px 6px;\n  margin: 0;\n  margin-top: 3px;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n  <div class=\"centered-section\">\n    <h3>Team Member Fact Sheet<\/h3>\n  <\/div>\n  <div class=\"b1 f90 slbenrow\">\n    <div class=\"cfbpage\" data-page=\"0\">\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Name:<\/label>\n          <input type=\"text\" name='gh_employee_name' value='%gh_employee_name%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Job Title:<\/label>\n          <input type=\"text\" name='gh_job_title' value=\"%gh_job_title%\">\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <label>GENDER (Please check one of the options below):<\/label>\n          <div>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_gender' value=\"0\">Female<\/label>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_gender' value=\"1\">Male<\/label>\n          <\/div>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <label>RACE\/ETHNICITY: (Please check one of the descriptions below corresponding to the ethnic group with which you identify)<\/label>\n          <div>\n            <label style=\"display: inline-block; width: 80%;\">\n              <input type=\"radio\" name='gh_ethnicity' value=\"1\">\n              <b>Hispanic or Latino<\/b> - A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.\n            <\/label>\n            <label style=\"display: inline-block; width: 80%;\">\n              <input type=\"radio\" name='gh_ethnicity' value=\"2\">\n              <b>White (Not Hispanic or Latino)<\/b> - A person having origins in any of the original peoples of Europe, the Middle East or North Africa.\n            <\/label>\n            <label style=\"display: inline-block; width: 80%;\">\n              <input type=\"radio\" name='gh_ethnicity' value=\"3\">\n              <b>Black or African American (Not Hispanic or Latino)<\/b> - A person having origins in any of the black racial groups of Africa.\n            <\/label>\n            <label style=\"display: inline-block; width: 80%;\">\n              <input type=\"radio\" name='gh_ethnicity' value=\"4\">\n              <b>Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)<\/b> - A person having origins in any of the peoples of Hawaii, Guam, Samoa or other Pacific Islands.\n            <\/label>\n            <label style=\"display: inline-block; width: 80%;\">\n              <input type=\"radio\" name='gh_ethnicity' value=\"5\">\n              <b>Asian (Not Hispanic or Latino)<\/b> - A person having origins n any of the original peoples of the Far East, Southeast Asia or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand and Vietnam.\n            <\/label>\n            <label style=\"display: inline-block; width: 80%;\">\n              <input type=\"radio\" name='gh_ethnicity' value=\"6\">\n              <b>American Indian (Not Hispanic or Latino)<\/b> - A person having origins n any of the original peoples of North and South American (including Central America) and who maintain tribal affiliation or community attachment.\n            <\/label>\n            <label style=\"display: inline-block; width: 80%;\">\n              <input type=\"radio\" name='gh_ethnicity' value=\"7\">\n              <b>Two or More Races (Not Hispanic\/Latino)<\/b> - All persons who identify with more than one of the above five races.\n            <\/label>\n          <\/div>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Dated Completed:<\/label>\n          <input type=\"text\" name='gh_dated_completed'\n            data-rule-date=\"true\" \n            data-msg-date=\"Please enter date in the format MM\/DD\/YYYY\"\n            placeholder=\"MM\/DD\/YYYY\" \n            data-mask=\"00\/00\/0000\"\n            >\n        <\/div>\n      <\/div>\n\n    <\/div>\n  <\/div>\n<\/div>\n",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": false,
+    "fontSize": 9
+}

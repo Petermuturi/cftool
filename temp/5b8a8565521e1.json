@@ -1,0 +1,39 @@
+{
+    "name": "good",
+    "fields": {
+        "signer1": [
+            {
+                "hello:text:0:-": {
+                    "name": "hello",
+                    "type": "text",
+                    "x": 98,
+                    "y": 645,
+                    "display": "The Bedford Village Inn & Grand is an equal opportunity employer and always selects the best qualified individual for the job based upon job related qualification, regardless of race, color, creed, sex, national origin, age, disability, or marital status. Since you have been made this conditional job offer at the BVI, please complete",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 73.5,
+                    "ypt": 483.75,
+                    "length": 100,
+                    "wrap": 1,
+                    "spacing": 8
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8a210028365.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

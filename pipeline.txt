@@ -1,0 +1,73 @@
+Todo
+
+1. Support for multiple instance of same field in the same page. i.e. x: [1,2]...
+
+2. Support for filter, format, letter-spacing
+
+3. Get postable json
+
+4. Get fields from existing HTML
+
+5. Handling of unpositioned (out of viewport, i.e. freshly imported from HTML) fields
+
+6. Single selection - manual edit of name, pos, value, etc.
+
+7. Multiple selection - manual edit of name, pos, value, etc.
+
+8. Undo and redo
+
+9. sign and sign_date fields
+
+------------
+
+Data flow:
+
+1. input json => app format (used by vue)
+
+2. All non-position operations happen on app format data => and then updated on DOM
+
+3. All position operations happen on the DOM => and then updated on app format
+
+4. App format data uses key of format: "name:type:value" (ex: gh_gender:radio:0, gh_name:text, etc.) for easy dup checks
+
+5. App format has selection information as one of the fields
+
+6. Rendering and positioning of prview-fields NOT done by vue
+
+7. Preview fields will have only 1 elem- field, namely elem-key (in app-format key format)
+
+----
+
+fields: {
+  
+  employee: [ // array, where index 0 is for page 1
+    
+    // page 1 (index 0)
+    {
+      "name:type:instnum:value": {
+        x: (in pixels),
+        y: (in pixels),
+        name: "name",
+        type: "type",
+        value: "value",
+        display: "display html (defaults to name)",
+        filter: "filter",
+        format: "format",
+        letter_space: (letter spacing)
+      },
+      ...
+    },
+
+    // page 2 (index 1)
+    {
+      ...
+    }
+  ],
+
+  employer: [
+    {} // page 1
+  ]
+
+}
+
+

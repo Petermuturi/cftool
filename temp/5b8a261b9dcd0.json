@@ -1,0 +1,287 @@
+{
+    "name": "confidential-medical",
+    "fields": {
+        "signer1": [
+            {
+                "gh_physical_defects:radio:0:1": {
+                    "name": "gh_physical_defects",
+                    "type": "radio",
+                    "xpt": 342,
+                    "ypt": 555,
+                    "x": 456,
+                    "y": 740,
+                    "display": "x",
+                    "value": "1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_physical_defects:radio:0:0": {
+                    "name": "gh_physical_defects",
+                    "type": "radio",
+                    "xpt": 382.5,
+                    "ypt": 555,
+                    "x": 510,
+                    "y": 740,
+                    "display": "x",
+                    "value": "0",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_major_illness_5_years:radio:0:1": {
+                    "name": "gh_major_illness_5_years",
+                    "type": "radio",
+                    "xpt": 321.75,
+                    "ypt": 526.5,
+                    "x": 429,
+                    "y": 702,
+                    "display": "x",
+                    "value": "1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_major_illness_5_years:radio:0:0": {
+                    "name": "gh_major_illness_5_years",
+                    "type": "radio",
+                    "xpt": 361.5,
+                    "ypt": 526.5,
+                    "x": 482,
+                    "y": 702,
+                    "display": "x",
+                    "value": "0",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_major_illness_5_details:text:0:-": {
+                    "name": "gh_major_illness_5_details",
+                    "type": "text",
+                    "xpt": 72,
+                    "ypt": 498.75,
+                    "x": 96,
+                    "y": 665,
+                    "display": "gh_major_illness_5_details",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_year_1:text:0:-": {
+                    "name": "gh_year_1",
+                    "type": "text",
+                    "xpt": 123,
+                    "ypt": 427.5,
+                    "x": 164,
+                    "y": 570,
+                    "display": "gh_year_1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_days_1:text:0:-": {
+                    "name": "gh_days_1",
+                    "type": "text",
+                    "xpt": 162.75,
+                    "ypt": 427.5,
+                    "x": 217,
+                    "y": 570,
+                    "display": "gh_days_1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_injury_1:text:0:-": {
+                    "name": "gh_injury_1",
+                    "type": "text",
+                    "xpt": 267,
+                    "ypt": 427.5,
+                    "x": 356,
+                    "y": 570,
+                    "display": "gh_injury_1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_year_2:text:0:-": {
+                    "name": "gh_year_2",
+                    "type": "text",
+                    "xpt": 123,
+                    "ypt": 408.75,
+                    "x": 164,
+                    "y": 545,
+                    "display": "gh_year_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_days_2:text:0:-": {
+                    "name": "gh_days_2",
+                    "type": "text",
+                    "xpt": 162.75,
+                    "ypt": 408.75,
+                    "x": 217,
+                    "y": 545,
+                    "display": "gh_days_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_injury_2:text:0:-": {
+                    "name": "gh_injury_2",
+                    "type": "text",
+                    "xpt": 267,
+                    "ypt": 408.75,
+                    "x": 356,
+                    "y": 545,
+                    "display": "gh_injury_2",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_year_3:text:0:-": {
+                    "name": "gh_year_3",
+                    "type": "text",
+                    "xpt": 123,
+                    "ypt": 390.75,
+                    "x": 164,
+                    "y": 521,
+                    "display": "gh_year_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_days_3:text:0:-": {
+                    "name": "gh_days_3",
+                    "type": "text",
+                    "xpt": 162.75,
+                    "ypt": 390.75,
+                    "x": 217,
+                    "y": 521,
+                    "display": "gh_days_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_injury_3:text:0:-": {
+                    "name": "gh_injury_3",
+                    "type": "text",
+                    "xpt": 267,
+                    "ypt": 390.75,
+                    "x": 356,
+                    "y": 521,
+                    "display": "gh_injury_3",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_accident_5_years:radio:0:1": {
+                    "name": "gh_accident_5_years",
+                    "type": "radio",
+                    "xpt": 375,
+                    "ypt": 366.75,
+                    "x": 500,
+                    "y": 489,
+                    "display": "x",
+                    "value": "1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_accident_5_years:radio:0:0": {
+                    "name": "gh_accident_5_years",
+                    "type": "radio",
+                    "xpt": 417,
+                    "ypt": 366.75,
+                    "x": 556,
+                    "y": 489,
+                    "display": "x",
+                    "value": "0",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_accident_5_details:text:0:-": {
+                    "name": "gh_accident_5_details",
+                    "type": "text",
+                    "xpt": 355.5,
+                    "ypt": 337.5,
+                    "x": 474,
+                    "y": 450,
+                    "display": "gh_accident_5_details",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_workers_comp:radio:0:1": {
+                    "name": "gh_workers_comp",
+                    "type": "radio",
+                    "xpt": 454.5,
+                    "ypt": 309,
+                    "x": 606,
+                    "y": 412,
+                    "display": "x",
+                    "value": "1",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_workers_comp:radio:0:0": {
+                    "name": "gh_workers_comp",
+                    "type": "radio",
+                    "xpt": 496.5,
+                    "ypt": 309,
+                    "x": 662,
+                    "y": 412,
+                    "display": "x",
+                    "value": "0",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_workers_comp_details:text:0:-": {
+                    "name": "gh_workers_comp_details",
+                    "type": "text",
+                    "xpt": 72,
+                    "ypt": 279.75,
+                    "x": 96,
+                    "y": 373,
+                    "display": "gh_workers_comp_details",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_accommodations_reqd:text:0:-": {
+                    "name": "gh_accommodations_reqd",
+                    "type": "text",
+                    "xpt": 72,
+                    "ypt": 234,
+                    "x": 96,
+                    "y": 312,
+                    "display": "gh_accommodations_reqd",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 148,
+                    "y": 102,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 111,
+                    "ypt": 76.5
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 514,
+                    "y": 102,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 385.5,
+                    "ypt": 76.5
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8a210028365.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n\tpadding: 10px 0;\n}\nbody .gh-cf-base * {\n\tfont-family: sans-serif;\n\tbox-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n\tfont-size: 90%;\n}\nbody .gh-cf-base .f70 {\n\tfont-size: 70%;\n}\nbody .gh-cf-base .b1 {\n\tborder: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n\ttext-align: center;\n}\nbody .gh-cf-base .slbenrow {\n\tpadding: 8px 10px;\n\tbackground: #eee;\n\tmargin-bottom: 10px;\n\tpadding-bottom: 0;\n\tposition: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n\tborder-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n\toverflow: hidden;\n\tborder-bottom: 1px solid #ddd;\n\tmargin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n\tborder: 0;\n\tmargin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n\tfloat: left;\n\tpadding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n  display: block;\n  font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n  display: block;\n  font-size: 12px;\n  width: calc(100% - 10px);\n  margin-top: 3px;\n  resize: none;\n}\nbody .gh-cf-base hr {\n\tborder-color: #eee !important;\n}\nbody .gh-cf-base .error {\n  color: #bd0404;\n  font-size: 12px;\n  font-weight: normal !important;\n  width: 100%;\n\ttext-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n\tdisplay: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n\tmargin-left: 2px;\n}\nbody .gh-cf-base .btn {\n\tcolor: #fff;\n\tpadding: 4px 10px;\n\tmargin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n\tbackground: #39609b;\n\tborder: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n\tbackground: #a72525;\n\tborder: 1px solid #a72525;\n}\nbody .gh-cf-table th {\n\tfont-weight: normal;\n\ttext-align: left;\n\tfont-size: 12px;\n  background: #ddd;\n  padding: 5px;\n}\nbody .gh-cf-table tr[data-injury] {\n  display: none;\n}\nbody .gh-cf-base .btn.btn-sm.btn-danger.btn-remove-injury {\n  padding: 1px 6px;\n  margin: 0;\n  margin-top: 3px;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n\t<div class=\"centered-section\">\n\t\t<h3>CONFIDENTIAL MEDICAL INQUIRY<\/h3>\n\t<\/div>\n\t<div class=\"b1 f90 slbenrow\">\n\t\t<div class=\"cfbpage\" data-page=\"0\">\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\">\n           <p>The Bedford Village Inn & Grand is an equal opportunity employer and always selects the best qualified individual for the job based upon job related qualification, regardless of race, color, creed, sex, national origin, age, disability, or marital status. Since you have been made this conditional job offer at the BVI, please complete the following.<\/p>\n        <\/div>\n      <\/div>\n\n\t\t\t<div class=\"slrow\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<label>1. Have you any physical defects or conditions which would make it difficult or impossible for you perform the duties related to the job for which you are applying?<\/label>\n\t\t\t\t\t<div>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_physical_defects' value=\"1\">Yes<\/label>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_physical_defects' value=\"0\">No<\/label>\n          <\/div>\n\t\t\t\t<\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <label>2. Have you had a major illness in the past 5 years?<\/label>\n          <div>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_major_illness_5_years' value=\"1\"\n              onchange=\"toggleSection(this.value, 'major-illness-5-years')\">Yes<\/label>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_major_illness_5_years' value=\"0\"\n              onchange=\"toggleSection(!this.value, 'major-illness-5-years')\">No<\/label>\n          <\/div>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 100%\" data-toggle-section=\"major-illness-5-years\">\n          <div class=\"slrow nodiv\" >\n            <div class=\"slcol\" style=\"width: 100%; padding-bottom: 0\">\n              <label>If yes, please explain briefly:<\/label>\n              <textarea name=\"gh_major_illness_5_details\" rows=\"3\" maxlength=\"300\"><\/textarea>\n            <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <label>3. How much time have you lost from work during each of the last three years because of illness or injury?<\/label>\n          <div>\n            <table class=\"gh-cf-table\" cellspacing=\"0\" style=\"margin-top: 10px\">\n              <thead>\n                <tr>\n                  <th style=\"width: 10%\">&nbsp;<\/th>\n                  <th style=\"width: 15%\">Year<\/th>\n                  <th style=\"width: 15%\">Number of Days Lost<\/th>\n                  <th style=\"width: 60%\">Nature of illness or injury<\/th>\n                <\/tr>\n              <\/thead>\n              <tbody>\n                <tr>\n                  <td>Year<\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_year_1\" maxlength=\"4\">\n                  <\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_days_1\" maxlength=\"3\">\n                  <\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_injury_1\" maxlength=\"75\">\n                  <\/td>\n                <\/tr>\n                <tr>\n                  <td>Year<\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_year_2\" maxlength=\"4\">\n                  <\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_days_2\" maxlength=\"3\">\n                  <\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_injury_2\" maxlength=\"75\">\n                  <\/td>\n                <\/tr>\n                <tr>\n                  <td>Year<\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_year_3\" maxlength=\"4\">\n                  <\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_days_3\" maxlength=\"3\">\n                  <\/td>\n                  <td>\n                    <input type=\"text\" name=\"gh_injury_3\" maxlength=\"75\">\n                  <\/td>\n                <\/tr>\n              <\/tbody>\n            <\/table>\n          <\/div>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <label>4. Have you been injured in any accident during the last 5 years?<\/label>\n          <div>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_accident_5_years' value=\"1\"\n              onchange=\"toggleSection(this.value, 'accident-5-years')\">Yes<\/label>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_accident_5_years' value=\"0\"\n              onchange=\"toggleSection(!this.value, 'accident-5-years')\">No<\/label>\n          <\/div>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\" data-toggle-section=\"accident-5-years\">\n        <div class=\"slcol\" style=\"width: 100%;\">\n          <label>5. If #4 is yes, how may injuries did you receive while on the job?<\/label>\n          <input type=\"text\" name=\"gh_accident_5_details\" style=\"width: 120px\">\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <label>6. Have you ever received worker's compensation or disability income payments?<\/label>\n          <div>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_workers_comp' value=\"1\"\n              onchange=\"toggleSection(this.value, 'workers-comp')\">Yes<\/label>\n            <label style=\"display: inline-block; padding-right: 6px;\"><input type=\"radio\" name='gh_workers_comp' value=\"0\"\n              onchange=\"toggleSection(!this.value, 'workers-comp')\">No<\/label>\n          <\/div>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 100%\" data-toggle-section=\"workers-comp\">\n          <div class=\"slrow nodiv\" >\n            <div class=\"slcol\" style=\"width: 100%; padding-bottom: 0\">\n              <label>If yes, please explain briefly:<\/label>\n              <textarea name=\"gh_workers_comp_details\" rows=\"3\" maxlength=\"300\"><\/textarea>\n            <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow nodiv\" >\n        <div class=\"slcol\" style=\"width: 100%; padding-bottom: 0\">\n          <label>7. Please describe any accommodations you would require in order to perform these job duties.<\/label>\n          <textarea name=\"gh_accommodations_reqd\" rows=\"3\" maxlength=\"300\"><\/textarea>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\">\n           <p>I declare my answers to the questions on this inquiry are true, correct and complete and give the BVI the right to investigate all references and information given. I agree that any false statement or misrepresentation on this application will be cause for refusal to fire or for immediate dismissal. I authorize any my physical or hospital to release any information which may be necessary to determine my ability to perform the duties of a job I am being considered for prior to employment. I understand that acceptance of an offer of employment does not create a contractual obligation upon the employer to continue to employ me in the future.<\/p>\n        <\/div>\n      <\/div>\n\n\t\t\t<div class=\"slrow nodiv\">\n\t\t\t\t<div class=\"slcol\" style=\"width: 100%\">\n\t\t\t\t\t<div class='margin_top_30 custom_form_gh_signature'>\n\t\t\t\t\t\t<div style='float: left'>\n\t\t\t\t\t\t\t<div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n\t\t\t\t\t\t\t\t<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div><label class='doc-small3'>Employee Signature<\/label><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<div style='float: right;'>\n\t\t\t\t\t\t\t<div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t<div><label class='doc-small3'>Date<\/label><\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<div style='clear: both; height: 0px'> <\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n<script>\nfunction toggleSection(_show, _section) {\n  var section = $('[data-toggle-section=\"' + _section + '\"]');\n  section.css({\n    display: (_show ? 'block' : 'none')\n  });\n  if(!_show) {\n    section.find('input, select, textarea').val('');\n    section.find('input[type=\"checkbox\"], input[type=\"radio\"]').prop('checked', false);\n  }\n  else {\n    section.find('input, textarea').first().focus();\n  }\n}\nvar lastShownInjury = 1;\nfunction addInjury() {\n  if(lastShownInjury < 8) lastShownInjury++;\n  $('[data-injury=\"' + lastShownInjury + '\"]').show();\n  $('.btn-remove-injury').hide();\n  $('[data-injury]:visible').last().find('.btn-remove-injury').show();\n  if(lastShownInjury === 8) $('.btn-add-injury').hide();\n  return false;\n}\nfunction removeInjury() {\n  var injury = $('[data-injury=\"' + lastShownInjury + '\"]');\n  injury.find('input, select').val('');\n  injury.find('input[type=\"checkbox\"], input[type=\"radio\"]').prop('checked', false);\n  injury.hide();\n  lastShownInjury--;\n  $('.btn-remove-injury').hide();\n  $('[data-injury]:visible').last().find('.btn-remove-injury').show();\n  $('.btn-add-injury').show();\n  return false;\n}\n<\/script>",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

@@ -1,0 +1,158 @@
+{
+    "name": "referral-saved",
+    "fields": {
+        "signer1": [
+            {
+                "gh_lname:text:0:-": {
+                    "name": "gh_lname",
+                    "type": "text",
+                    "xpt": 185.25,
+                    "ypt": 558,
+                    "x": 247,
+                    "y": 744,
+                    "display": "gh_lname",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_fname:text:0:-": {
+                    "name": "gh_fname",
+                    "type": "text",
+                    "xpt": 325.5,
+                    "ypt": 556.5,
+                    "x": 434,
+                    "y": 742,
+                    "display": "gh_fname",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_mname:text:0:-": {
+                    "name": "gh_mname",
+                    "type": "text",
+                    "xpt": 454.5,
+                    "ypt": 555,
+                    "x": 606,
+                    "y": 740,
+                    "display": "gh_mname",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_addr:text:0:-": {
+                    "name": "gh_addr",
+                    "type": "text",
+                    "xpt": 144,
+                    "ypt": 509.25,
+                    "x": 192,
+                    "y": 679,
+                    "display": "gh_addr",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_phone:text:0:-": {
+                    "name": "gh_phone",
+                    "type": "text",
+                    "xpt": 456,
+                    "ypt": 504.75,
+                    "x": 608,
+                    "y": 673,
+                    "display": "gh_phone",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_city:text:0:-": {
+                    "name": "gh_city",
+                    "type": "text",
+                    "xpt": 123.75,
+                    "ypt": 469.5,
+                    "x": 165,
+                    "y": 626,
+                    "display": "gh_city",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_state:text:0:-": {
+                    "name": "gh_state",
+                    "type": "text",
+                    "xpt": 305.25,
+                    "ypt": 468,
+                    "x": 407,
+                    "y": 624,
+                    "display": "gh_state",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_zip:text:0:-": {
+                    "name": "gh_zip",
+                    "type": "text",
+                    "xpt": 456,
+                    "ypt": 465.75,
+                    "x": 608,
+                    "y": 621,
+                    "display": "gh_zip",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_ssn:text:0:-": {
+                    "name": "gh_ssn",
+                    "type": "text",
+                    "xpt": 210,
+                    "ypt": 443.25,
+                    "x": 280,
+                    "y": 591,
+                    "display": "gh_ssn",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_birthday:text:0:-": {
+                    "name": "gh_birthday",
+                    "type": "text",
+                    "xpt": 423,
+                    "ypt": 441,
+                    "x": 564,
+                    "y": 588,
+                    "display": "gh_birthday",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 326,
+                    "y": 383,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 244.5,
+                    "ypt": 287.25
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 595,
+                    "y": 379,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 446.25,
+                    "ypt": 284.25
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8d39c927574.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n  padding: 10px 0;\n}\nbody .gh-cf-base * {\n  font-family: sans-serif;\n  box-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n  font-size: 90%;\n}\nbody .gh-cf-base .f70 {\n  font-size: 70%;\n}\nbody .gh-cf-base .b1 {\n  border: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n  text-align: center;\n}\nbody .gh-cf-base .slbenrow {\n  padding: 8px 10px;\n  background: #eee;\n  margin-bottom: 10px;\n  padding-bottom: 0;\n  position: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n  border-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n  overflow: hidden;\n  border-bottom: 1px solid #ddd;\n  margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n  border: 0;\n  margin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n  float: left;\n  padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n  display: block;\n  font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n  display: block;\n  font-size: 12px;\n  width: calc(100% - 10px);\n  margin-top: 3px;\n  resize: none;\n}\nbody .gh-cf-base hr {\n  border-color: #eee !important;\n}\nbody .gh-cf-base .error {\n  color: #bd0404;\n  font-size: 12px;\n  font-weight: normal !important;\n  width: 100%;\n  text-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n  margin-left: 2px;\n}\nbody .gh-cf-base .btn {\n  color: #fff;\n  padding: 4px 10px;\n  margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n  background: #39609b;\n  border: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n  background: #a72525;\n  border: 1px solid #a72525;\n}\nbody .gh-cf-table th {\n  font-weight: normal;\n  text-align: left;\n  font-size: 12px;\n  background: #ddd;\n  padding: 5px;\n}\nbody .gh-cf-table tr[data-injury] {\n  display: none;\n}\nbody .gh-cf-base .btn.btn-sm.btn-danger.btn-remove-injury {\n  padding: 1px 6px;\n  margin: 0;\n  margin-top: 3px;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n  <div class=\"centered-section\">\n    <h3>REFERRAL FEE AUTHORIZATION FORM<\/h3>\n  <\/div>\n  <div class=\"b1 f90 slbenrow\">\n    <div class=\"cfbpage\" data-page=\"0\">\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>Print Name (Last Name):<\/label>\n          <input type=\"text\" name='gh_lname' value='%gh_lname%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>(First Name)<\/label>\n          <input type=\"text\" name='gh_fname' value='%gh_fname%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>(Middle Name)<\/label>\n          <input type=\"text\" name='gh_mname' value='%gh_mname%'>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 66.66%\">\n          <label>Address:<\/label>\n          <input type=\"text\" name='gh_addr' value='%gh_addr%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>Telephone<\/label>\n          <input type=\"text\" name='gh_phone' value='%gh_phone%' data-mask='000-000-0000'>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>City:<\/label>\n          <input type=\"text\" name=\"gh_city\" value=\"%gh_city%\" maxlength=\"40\">\n        <\/div>\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>State:<\/label>\n          <input type=\"text\" name=\"gh_state\" value=\"%gh_state%\" maxlength=\"30\">\n        <\/div>\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>Zip Code:<\/label>\n          <input type=\"text\" name=\"gh_zip\" value=\"%gh_zip%\" maxlength=\"5\">\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 66.66%\">\n          <label>Social Security Number:<\/label>\n          <input type=\"text\" name='gh_ssn' value='%gh_ssn%'>\n        <\/div>\n        <div class=\"slcol\" style=\"width: 33.33%\">\n          <label>Telephone<\/label>\n          <input type=\"text\" name='gh_birthday' value='%gh_birthday%'\n            data-rule-date=\"true\" \n            data-msg-date=\"Please enter date in the format MM\/DD\/YYYY\"\n            placeholder=\"MM\/DD\/YYYY\" \n            data-mask=\"00\/00\/0000\"\n            >\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <p>\n            I, the undersigned, hereby authorize any employer(s), to deduct from my wages each and every month an hourly referral fee in an amount prescribed and determined by the Local Union Executive Board and direct such amounts so deducted be remitted not later than the 15th day of each month to the Secretary Treasurer of Local Union 727 for an on my behalf. This authorization is voluntary and is not conditioned on my present or future membership in the Union. This authorization and assignment shall be irrevocable for the term of the applicable contract between the union and the employer(s) or for one year, whichever is the lesser, and shall automatically renew itself for successive yearly or applicable contract periods thereafter.\n          <\/p>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <div class='margin_top_30 custom_form_gh_signature'>\n            <div style='float: left'>\n              <div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n                <span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Employee Signature<\/label><\/div>\n            <\/div>\n            <div style='float: right;'>\n              <div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Date<\/label><\/div>\n            <\/div>\n            <div style='clear: both; height: 0px'> <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n\n    <\/div>\n  <\/div>\n<\/div>\n",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}

@@ -1,0 +1,59 @@
+{
+    "name": "standards-handbook-saved",
+    "fields": {
+        "signer1": [
+            {
+                "gh_employee_name:text:0:-": {
+                    "name": "gh_employee_name",
+                    "type": "text",
+                    "xpt": 90,
+                    "ypt": 232.5,
+                    "x": 120,
+                    "y": 310,
+                    "display": "gh_employee_name",
+                    "selected": false,
+                    "instance": 0
+                },
+                "gh_signature:text:0:-": {
+                    "name": "gh_signature",
+                    "type": "text",
+                    "x": 123,
+                    "y": 241,
+                    "display": "gh_signature",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 92.25,
+                    "ypt": 180.75
+                },
+                "gh_signature_date:text:0:-": {
+                    "name": "gh_signature_date",
+                    "type": "text",
+                    "x": 447,
+                    "y": 307,
+                    "display": "gh_signature_date",
+                    "value": "-",
+                    "selected": false,
+                    "instance": 0,
+                    "xpt": 335.25,
+                    "ypt": 230.25
+                }
+            }
+        ],
+        "signer2": [
+            {}
+        ]
+    },
+    "pdfURL": "uploads\/5b8be94a79f44.pdf",
+    "jsonURL": "",
+    "json2URL": "",
+    "hasHTML1": true,
+    "hasHTML2": false,
+    "signer1": "employee",
+    "signer2": "",
+    "html1": "<style type=\"text\/css\">\nbody .gh-cf-base {\n  padding: 10px 0;\n}\nbody .gh-cf-base * {\n  font-family: sans-serif;\n  box-sizing: border-box;\n}\nbody .gh-cf-base .f90 {\n  font-size: 90%;\n}\nbody .gh-cf-base .f70 {\n  font-size: 70%;\n}\nbody .gh-cf-base .b1 {\n  border: 1px solid #ddd;\n}\nbody .gh-cf-base .centered-section * {\n  text-align: center;\n}\nbody .gh-cf-base .slbenrow {\n  padding: 8px 10px;\n  background: #eee;\n  margin-bottom: 10px;\n  padding-bottom: 0;\n  position: relative;\n}\nbody .gh-cf-base .b1.csdpriben {\n  border-color: #aaa;\n}\nbody .gh-cf-base .slrow {\n  overflow: hidden;\n  border-bottom: 1px solid #ddd;\n  margin-bottom: 12px;\n}\nbody .gh-cf-base .slrow.nodiv {\n  border: 0;\n  margin-bottom: 0;\n}\nbody .gh-cf-base .slcol {\n  float: left;\n  padding-bottom: 12px\n}\nbody .gh-cf-base .slcol label {\n  display: block;\n  font-size: 12px;\n}\nbody .gh-cf-base .slcol input[type=\"text\"], body .gh-cf-base .slcol textarea {\n  display: block;\n  font-size: 12px;\n  width: calc(100% - 10px);\n  margin-top: 3px;\n  resize: none;\n}\nbody .gh-cf-base hr {\n  border-color: #eee !important;\n}\nbody .gh-cf-base .error {\n  color: #bd0404;\n  font-size: 12px;\n  font-weight: normal !important;\n  width: 100%;\n  text-align: center;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\nbody .gh-cf-base .slcol input[type=\"checkbox\"], body .gh-cf-base .slcol input[type=\"radio\"] {\n  margin-left: 2px;\n}\nbody .gh-cf-base .btn {\n  color: #fff;\n  padding: 4px 10px;\n  margin-bottom: 10px;\n}\nbody .gh-cf-base .btn.btn-default {\n  background: #39609b;\n  border: 1px solid #4d71a7;\n}\nbody .gh-cf-base .btn.btn-danger {\n  background: #a72525;\n  border: 1px solid #a72525;\n}\nbody .gh-cf-table th {\n  font-weight: normal;\n  text-align: left;\n  font-size: 12px;\n  background: #ddd;\n  padding: 5px;\n}\nbody .gh-cf-table tr[data-injury] {\n  display: none;\n}\nbody .gh-cf-base .btn.btn-sm.btn-danger.btn-remove-injury {\n  padding: 1px 6px;\n  margin: 0;\n  margin-top: 3px;\n}\nbody .gh-cf-base [data-toggle-section] {\n  display: none;\n}\n<\/style>\n<div class=\"gh-cf-base\">\n  <div class=\"centered-section\">\n    <h3>ACKNOWLEDGEMENT OF RECEIPT OF THE UNITED CENTER<br>APPEARANCE STANDARDS HANDBOOK<\/h3>\n  <\/div>\n  <div class=\"b1 f90 slbenrow\">\n    <div class=\"cfbpage\" data-page=\"0\">\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\">\n           <p>My signature below acknowledges receipt\/acceptance of the United Center's Appearance Standards Handbook. The handbook contains policies and regulations, which I have read, understand and agree to comply with during my employment with the company. The policies and statements in this handbook do not constitute a contract or form of contract. They are not intended to create any binding contractual commitments between you and the United Center, nor do they provide any promise or guarantee of any particular benefits, procedures, terms or conditions of employment for any length of time. These policies, however, do no supersede collective bargaining agreements.<\/p>\n\n           <p>I understand that the United Center reserves the right to change its policies, practices and regulations, communicated to Team Members from time to time, whether or not I have signed an acknowledgment of such changes.<\/p>\n\n           <p>In addition, I understand that the failure to comply with all the rules and regulations, including work rules, may be cause for disciplinary action up to and including termination from the United Center.<\/p>\n\n           <p>** Please note: If your company's\/department's appearance standards are more stringent that those detailed in this handbook, the more stringent standards apply.<\/p>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow\">\n        <div class=\"slcol\" style=\"width: 50%\">\n          <label>Print Name<\/label>\n          <input type=\"text\" name='gh_employee_name' value='%gh_employee_name%'>\n        <\/div>\n      <\/div>\n\n      <div class=\"slrow nodiv\">\n        <div class=\"slcol\" style=\"width: 100%\">\n          <div class='margin_top_30 custom_form_gh_signature'>\n            <div style='float: left'>\n              <div style='border-bottom:1px solid #666; min-width:220px; margin-right: 100px; font-style: italic; font-size: 12px'>%gh_signature%\n                <span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Employee Signature<\/label><\/div>\n            <\/div>\n            <div style='float: right;'>\n              <div style='height: 40px; border-bottom:1px solid #666; width: 200px; padding:0px 3px; font-size:12px; font-style:italic'>%gh_signature_date%<span style='display: inline-block; height: 40px; vertical-align: bottom'> <\/span>\n              <\/div>\n              <div><label class='doc-small3'>Date<\/label><\/div>\n            <\/div>\n            <div style='clear: both; height: 0px'> <\/div>\n          <\/div>\n        <\/div>\n      <\/div>\n\n    <\/div>\n  <\/div>\n<\/div>\n",
+    "html2": "",
+    "pdfPage": 1,
+    "signReqd": true,
+    "fontSize": 9
+}
